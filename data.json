@@ -35,24 +35,12 @@
 	"created" : 1414108068.0
 },
 {
-	"title" : "Jssembly – Native x86/x64/ARM Assembly via JNI Bridge in Java",
-	"created" : 1414126250.0
-},
-{
-	"title" : "Java for beginners tutorial – DAY 1",
-	"created" : 1414125239.0
-},
-{
 	"title" : "How to Implement an Interface in Java [This guy deserves more likes/subs]",
 	"created" : 1414118319.0
 },
 {
 	"title" : "Send Your Best Java Hacks and Win Kano Computers",
 	"created" : 1414080496.0
-},
-{
-	"title" : "C# or Java – Which one is better ?",
-	"created" : 1414084553.0
 },
 {
 	"title" : "OpenXava 5.1 released: Rapid Development for Java",
@@ -77,10 +65,6 @@
 {
 	"title" : "Java 8 Survey: The results are In",
 	"created" : 1413934892.0
-},
-{
-	"title" : "StringBuilder and StringBuffer – A way to create mutable Strings in Java",
-	"created" : 1413914875.0
 },
 {
 	"title" : "Why char array is more secured than Strings in Java ? Is it for Security or What?",
@@ -161,10 +145,6 @@
 {
 	"title" : "A great little tool to help learn the fundametals of java",
 	"created" : 1413169777.0
-},
-{
-	"title" : "ciclo while – java (producto entre dos numeros)",
-	"created" : 1413072224.0
 },
 {
 	"title" : "The Heroes of Java (and Ruby): Dan Allen",
@@ -383,10 +363,6 @@
 	"created" : 1411145546.0
 },
 {
-	"title" : "12 Java Snippets you won’t believe actually compile",
-	"created" : 1411161732.0
-},
-{
 	"title" : "Scala and Java 8 type inference in higher order functions sample",
 	"created" : 1411121458.0
 },
@@ -441,10 +417,6 @@
 {
 	"title" : "Java 8: Not Just For Developers Any More (Henrik on Java)",
 	"created" : 1410884007.0
-},
-{
-	"title" : "Critique of Stripe’s Java APIs",
-	"created" : 1410853870.0
 },
 {
 	"title" : "Baratine distributed microservices for Java",
@@ -611,10 +583,6 @@
 	"created" : 1408992295.0
 },
 {
-	"title" : "Analyzing the “ecological footprint” of java algorithms",
-	"created" : 1408903741.0
-},
-{
 	"title" : "From Java 7 to Java 8: five case studies (starting at 08:37)",
 	"created" : 1408813775.0
 },
@@ -649,10 +617,6 @@
 {
 	"title" : "Sound Effect Management with an LRU Cache in Java",
 	"created" : 1408471147.0
-},
-{
-	"title" : "Bad Java, no cake for you! – Java 8 default methods versus Scala traits",
-	"created" : 1408443434.0
 },
 {
 	"title" : "Java 9 features announced!",
@@ -699,20 +663,12 @@
 	"created" : 1407756955.0
 },
 {
-	"title" : "Microsoft and Java: Internet Explorer’s next patch to block old Java ActiveX plugins",
-	"created" : 1407772299.0
-},
-{
 	"title" : "Top 10 Ceylon Language Features I Wish We Had In Java",
 	"created" : 1407772255.0
 },
 {
 	"title" : "Why is it so hard to make a Java program appear native?",
 	"created" : 1407731741.0
-},
-{
-	"title" : "CodeExchange – A new Java code search engine",
-	"created" : 1407534581.0
 },
 {
 	"title" : "Functional Interfaces In JAVA8 ~ Code In Action",
@@ -947,10 +903,6 @@
 	"created" : 1405071769.0
 },
 {
-	"title" : "Java 8 and JVM: what’s new in HotSpot? by Oracle's Vladimir Ivanov",
-	"created" : 1405068670.0
-},
-{
 	"title" : "Couchbase Java SDK 2.0.0 Developer Preview 2",
 	"created" : 1405068279.0
 },
@@ -1005,14 +957,6 @@
 {
 	"title" : "Integrating Play for Java and Akka",
 	"created" : 1403598260.0
-},
-{
-	"title" : "Switching from Java to Python – First Impressions",
-	"created" : 1403510646.0
-},
-{
-	"title" : "It’s not Spring anymore it's the summer of Java EE 7!",
-	"created" : 1403347100.0
 },
 {
 	"title" : "Clash of the Lambdas. Comparing Lambda Performance in Java, Scala, C#, and F#",
@@ -1163,10 +1107,6 @@
 	"created" : 1401192640.0
 },
 {
-	"title" : "Free Ebook – Learning Java(Fourth Edition)",
-	"created" : 1401133299.0
-},
-{
 	"title" : "Quicksort and Java 8",
 	"created" : 1401120445.0
 },
@@ -1177,10 +1117,6 @@
 {
 	"title" : "Live - Java Coding Contest - Code a Bot, Solve Challenges, Win Prizes!",
 	"created" : 1401114302.0
-},
-{
-	"title" : "Java 8, Spring, Hibernate, SSP — Let’s Play",
-	"created" : 1401078799.0
 },
 {
 	"title" : "Are you Java or Scala Developer? Use Takipi - real time code analysis technology!",
@@ -1293,10 +1229,6 @@
 {
 	"title" : "Oddjet: Java API to use OpenOffice files as templates for PDFs",
 	"created" : 1399663581.0
-},
-{
-	"title" : "Oracle’s Java API code protected by copyright, appeals court rules",
-	"created" : 1399661641.0
 },
 {
 	"title" : "Introduction To Java Programming",
@@ -1651,10 +1583,6 @@
 	"created" : 1394392781.0
 },
 {
-	"title" : "Source Code Tales » Emulating the static initialization blocks of Java in C++",
-	"created" : 1394387667.0
-},
-{
 	"title" : "Java REPL",
 	"created" : 1394278885.0
 },
@@ -1817,10 +1745,6 @@
 {
 	"title" : "Java SE 8 Date and Time",
 	"created" : 1392535869.0
-},
-{
-	"title" : "10 Reasons why Java rocks more than ever: Part 9 – backwards compatibility",
-	"created" : 1392495759.0
 },
 {
 	"title" : "Boon: Converting from Lists, Maps, and JSON and other boons to Java",
@@ -2031,10 +1955,6 @@
 	"created" : 1390558665.0
 },
 {
-	"title" : "Java, Scala, Guava and Trove Collections – How Much Data Can They Hold?",
-	"created" : 1390485802.0
-},
-{
 	"title" : "From Java to Scala: A New Paradigm",
 	"created" : 1390428704.0
 },
@@ -2147,10 +2067,6 @@
 	"created" : 1389306340.0
 },
 {
-	"title" : "DripStat – Java Performance Monitoring Service + Realtime MMO Game",
-	"created" : 1389283090.0
-},
-{
 	"title" : "Online Escape String Generator for C/C++, Javascript, Java, etc.",
 	"created" : 1389211964.0
 },
@@ -2185,10 +2101,6 @@
 {
 	"title" : "Functional Interface on Data Set #Java #CPP and #Clojure",
 	"created" : 1388989916.0
-},
-{
-	"title" : "java.lang.reflect.invocationtargetexception – How to handle Invocation Target Exception",
-	"created" : 1388950148.0
 },
 {
 	"title" : "AWS Java ClassLoader",
@@ -2287,10 +2199,6 @@
 	"created" : 1387056885.0
 },
 {
-	"title" : "About PayPal's Node vs Java “fight”",
-	"created" : 1386956966.0
-},
-{
 	"title" : "How Class based Programming Sucks - ML is better than Java and C#",
 	"created" : 1386953585.0
 },
@@ -2325,10 +2233,6 @@
 {
 	"title" : "Will Java 8 kill Scala?",
 	"created" : 1386325793.0
-},
-{
-	"title" : "Streams vs. Collections: What’s the difference in Java 8?",
-	"created" : 1386182995.0
 },
 {
 	"title" : "Does Scala == Effective Java?",
@@ -2411,10 +2315,6 @@
 	"created" : 1385038175.0
 },
 {
-	"title" : "We Analyzed 30,000 GitHub Projects – Here Are The Top 100 Libraries in Java, JS and Ruby",
-	"created" : 1384991741.0
-},
-{
 	"title" : "BASE64 encoding with Java 8",
 	"created" : 1384974336.0
 },
@@ -2461,10 +2361,6 @@
 {
 	"title" : "Juergen Hoeller (Co-founder of the Spring Framework) Spring eXchange Keynote: Spring 4 on Java 8 [Video] [X-post /r/java]",
 	"created" : 1384526708.0
-},
-{
-	"title" : "Devoxx 2013 – Takeaways From The Java Keynote",
-	"created" : 1384507421.0
 },
 {
 	"title" : "Repository of Java 8 source code examples for learning",
@@ -2615,10 +2511,6 @@
 	"created" : 1382027666.0
 },
 {
-	"title" : "“Outer Contour Tracing” using square-tracing algorithm for binary image, Java Implementation",
-	"created" : 1382024879.0
-},
-{
 	"title" : "Semantically diffing Java code",
 	"created" : 1382017270.0
 },
@@ -2655,10 +2547,6 @@
 	"created" : 1381738095.0
 },
 {
-	"title" : "A Java geek » getCaller() hack",
-	"created" : 1381681725.0
-},
-{
 	"title" : "See if you can beat this Java test. Bonus points if you get IP address of java machine.",
 	"created" : 1381463630.0
 },
@@ -2677,14 +2565,6 @@
 {
 	"title" : "Free MongoDB course for Java Devs starts today (Node.js course starts in a couple weeks). Course is run by 10gen directly.",
 	"created" : 1381190082.0
-},
-{
-	"title" : "A Java geek » A dive into the Builder pattern",
-	"created" : 1381068015.0
-},
-{
-	"title" : "10 Reasons Why Java Now Rocks More Than Ever: Part 1 – The Java Compiler",
-	"created" : 1380871403.0
 },
 {
 	"title" : "Winning the Ride-Sharing Startup Battle with Personalization - Java sample code",
@@ -2867,10 +2747,6 @@
 	"created" : 1377063852.0
 },
 {
-	"title" : "5 Things You Didn’t Know About Synchronization in Java and Scala",
-	"created" : 1376596549.0
-},
-{
 	"title" : "Why does this Java program terminate despite that appears that it shouldn't (and didn't)? - Stack Overflow",
 	"created" : 1376581784.0
 },
@@ -2923,10 +2799,6 @@
 	"created" : 1375152758.0
 },
 {
-	"title" : "Emulating Multiple Inheritance in Java using ‘Program To Interface’ Design Principle, Object Composition and and Method Delegation",
-	"created" : 1374875714.0
-},
-{
 	"title" : "How to convert XML to Java object and vice versa in runtime?",
 	"created" : 1374801209.0
 },
@@ -2941,10 +2813,6 @@
 {
 	"title" : "Lambda Expressions Backported to Java 7, 6 and 5",
 	"created" : 1374587002.0
-},
-{
-	"title" : "Cassandra – working with counters using the Datastax Java API",
-	"created" : 1374389040.0
 },
 {
 	"title" : "Don't Throw Away Your Old Java Web Framework: the Short Single Page History of Twitter",
@@ -2969,10 +2837,6 @@
 {
 	"title" : "C++ const vs Java final - A Discussion",
 	"created" : 1373903623.0
-},
-{
-	"title" : "Cassandra – bulk insert with bound statements using the Datastax Java API",
-	"created" : 1373877072.0
 },
 {
 	"title" : "Classic WTF: Java is Slow!",
@@ -3007,10 +2871,6 @@
 	"created" : 1373404935.0
 },
 {
-	"title" : "ZeroMQ – communicate from PHP to Java with multithreaded request-reply",
-	"created" : 1373397701.0
-},
-{
 	"title" : "Show Reddit: A minimalistic SQL API for Java aimed to resemble the code to your original SQL code",
 	"created" : 1373378145.0
 },
@@ -3037,10 +2897,6 @@
 {
 	"title" : "The Heroes of Java: Kevlin Henney",
 	"created" : 1373025629.0
-},
-{
-	"title" : "Elastic Search – Geo distance search with sorted and faceted results in Java",
-	"created" : 1373006208.0
 },
 {
 	"title" : "Developers expect Java EE 7 to become predominant within 2-3 Years",
@@ -3203,14 +3059,6 @@
 	"created" : 1369824836.0
 },
 {
-	"title" : "Java 8 plugin that adds supports for persistent local variables (à lá C99 static)",
-	"created" : 1369727693.0
-},
-{
-	"title" : "Proof of Concept – LambdaSpec, how testing will look with Java8",
-	"created" : 1369672048.0
-},
-{
 	"title" : "Introducing JSR-352 - Batch Applications for the Java",
 	"created" : 1369525589.0
 },
@@ -3239,10 +3087,6 @@
 	"created" : 1368730891.0
 },
 {
-	"title" : "Dart vs Java — the DeltaBlue Benchmark",
-	"created" : 1368200142.0
-},
-{
 	"title" : "About the rise of the builder pattern in Java: JDK 8's Calendar.Builder",
 	"created" : 1368095658.0
 },
@@ -3253,10 +3097,6 @@
 {
 	"title" : "Java EE 7: JMS 2.0 With Glassfish v4",
 	"created" : 1368056402.0
-},
-{
-	"title" : "Java vs. PHP – the Essential Factor",
-	"created" : 1368019988.0
 },
 {
 	"title" : "A Java REPL (kind of)",
@@ -3285,10 +3125,6 @@
 {
 	"title" : "Java Proxy Chaining - Aspect Oriented with Dynamic Proxy",
 	"created" : 1367371215.0
-},
-{
-	"title" : "Monitors – The Basic Idea of Java synchronization",
-	"created" : 1367333760.0
 },
 {
 	"title" : "Java EE 7 (JSR-342) is final!",
@@ -3497,10 +3333,6 @@
 {
 	"title" : "Maurice Naftalin's Lambda FAQ [Java 8]",
 	"created" : 1362993785.0
-},
-{
-	"title" : "Peterson’s locking algorithm in Java",
-	"created" : 1362937218.0
 },
 {
 	"title" : "Metrics - A Java library which gives insight of what your code do in production",
@@ -3719,10 +3551,6 @@
 	"created" : 1358788333.0
 },
 {
-	"title" : "Don’t Design for Reuse (More hilarity from the functional programming in Java is evil guy)",
-	"created" : 1358704215.0
-},
-{
 	"title" : "Why Functional Programming in Java is Dangerous",
 	"created" : 1358698107.0
 },
@@ -3765,10 +3593,6 @@
 {
 	"title" : "Java 7 doesn't work with Chrome on OS X. This is an issue that's not really been publicized and I can't believe that it hasn't.",
 	"created" : 1357837039.0
-},
-{
-	"title" : "Critical Java zero-day bug is being “massively exploited in the wild”",
-	"created" : 1357834396.0
 },
 {
 	"title" : "OpenXava 4.6.1 released: Rapid Development of AJAX Java applications",
@@ -3857,10 +3681,6 @@
 {
 	"title" : "The Checker Framework: Custom pluggable types for Java",
 	"created" : 1355177057.0
-},
-{
-	"title" : "From XaaS to Java EE – Which damn cloud is right for me in 2012?",
-	"created" : 1354837565.0
 },
 {
 	"title" : "Concurrency Utilities for Java EE Early Draft (JSR 236) ",

@@ -1,25 +1,150 @@
-
 function myData() {
-    var series1 = [];
-    var data1;
+  var series1 = [];
+  var series2 = [];
+  var series3 = [];
+  var series4 = [];
     $.getJSON('data.json')
-   .done(function (data) {
-      for(var i = 0; i < data.data.length; i++){
-       var d = new Date(0);
-       d.setUTCSeconds(data.data[i].created);
-       series1.push({
-        x: d, y: 981-i
-       });
-     }
-   });
+  .done(function (data) {
+    var init = new Date(0);
+    init.setUTCSeconds(data.data[data.data.length-1].created);
+    var tempMonth = init.getMonth();
+    var tempYear = init.getFullYear();
+    var num = 0;
+    for(var i = data.data.length-1; i >= 0; i--){
+     var d = new Date(0);
+     d.setUTCSeconds(data.data[i].created);
+     if(tempMonth != d.getMonth()){
+      var tempDay = new Date(0);
+      tempDay.setMonth(tempMonth);
+      tempDay.setFullYear(tempYear);
+      series1.push({
+        x: tempDay, y: num
+      });
+      tempMonth++;
+      if(tempMonth == 12){
+        tempMonth =0;
+        tempYear++;
+      }
+      num = 0;
+    }
+    if(tempMonth == d.getMonth()){
+      num+=1;
+    }
 
-    return [
-        {
-            key: "Series #1",
-            values: series1,
-            color: "#0000ff"
-        }
-    ];
+  }
+});
+    $.getJSON('data2.json')
+  .done(function (data) {
+    var init = new Date(0);
+    init.setUTCSeconds(data.data[data.data.length-1].created);
+    var tempMonth = init.getMonth();
+    var tempYear = init.getFullYear();
+    var num = 0;
+    for(var i = data.data.length-1; i >= 0; i--){
+     var d = new Date(0);
+     d.setUTCSeconds(data.data[i].created);
+     if(tempMonth != d.getMonth()){
+      var tempDay = new Date(0);
+      tempDay.setMonth(tempMonth);
+      tempDay.setFullYear(tempYear);
+      series2.push({
+        x: tempDay, y: num
+      });
+      tempMonth++;
+      if(tempMonth == 12){
+        tempMonth =0;
+        tempYear++;
+      }
+      num = 0;
+    }
+    if(tempMonth == d.getMonth()){
+      num+=1;
+    }
+
+  }
+});
+      $.getJSON('data3.json')
+  .done(function (data) {
+    var init = new Date(0);
+    init.setUTCSeconds(data.data[data.data.length-1].created);
+    var tempMonth = init.getMonth();
+    var tempYear = init.getFullYear();
+    var num = 0;
+    for(var i = data.data.length-1; i >= 0; i--){
+     var d = new Date(0);
+     d.setUTCSeconds(data.data[i].created);
+     if(tempMonth != d.getMonth()){
+      var tempDay = new Date(0);
+      tempDay.setMonth(tempMonth);
+      tempDay.setFullYear(tempYear);
+      series3.push({
+        x: tempDay, y: num
+      });
+      tempMonth++;
+      if(tempMonth == 12){
+        tempMonth =0;
+        tempYear++;
+      }
+      num = 0;
+    }
+    if(tempMonth == d.getMonth()){
+      num+=1;
+    }
+
+  }
+});
+        $.getJSON('data4.json')
+  .done(function (data) {
+    var init = new Date(0);
+    init.setUTCSeconds(data.data[data.data.length-1].created);
+    var tempMonth = init.getMonth();
+    var tempYear = init.getFullYear();
+    var num = 0;
+    for(var i = data.data.length-1; i >= 0; i--){
+     var d = new Date(0);
+     d.setUTCSeconds(data.data[i].created);
+     if(tempMonth != d.getMonth()){
+      var tempDay = new Date(0);
+      tempDay.setMonth(tempMonth);
+      tempDay.setFullYear(tempYear);
+      series4.push({
+        x: tempDay, y: num
+      });
+      tempMonth++;
+      if(tempMonth == 12){
+        tempMonth =0;
+        tempYear++;
+      }
+      num = 0;
+    }
+    if(tempMonth == d.getMonth()){
+      num+=1;
+    }
+
+  }
+});
+  return [
+  {
+    key: "Java",
+    values: series1,
+    color: "#0000ff"
+  },
+  {
+    key: "SQL",
+    values: series2,
+    color: "#ff0000"
+  },
+  {
+    key: "PHP",
+    values: series3,
+    color: "#00ff00"
+  },
+  {
+    key: "Ruby",
+    values: series4,
+    color: "#000000"
+  }
+  ];
 }
 nv.addGraph(function() {
     var chart = nv.models.lineChart();
