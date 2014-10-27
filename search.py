@@ -4,7 +4,7 @@ import time
 import sys
 def getSubData(subreddit, keyword):
     nextpost = ""
-    file = open("data.json", "a")
+    file = open("data/data.json", "a")
     file.write('{"data":[')
     file.close()
     r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=" + keyword + "&sort=new&restrict_sr=on&limit=100")

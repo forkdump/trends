@@ -2,7 +2,7 @@
 function myData() {
     var series1 = [];
     var data1;
-    $.getJSON('data.json')
+    $.get('/data/data.json')
    .done(function (data) {
       for(var i = 0; i < data.data.length; i++){
        var d = new Date(0);
