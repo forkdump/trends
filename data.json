@@ -1,0 +1,3928 @@
+{"data":[{
+	"title" : "Discovering Jigsaw, the new major java 9 feature.",
+	"created" : 1414380226.0
+},
+{
+	"title" : "STREAMS in JAVA and Difference between BYTE and CHARACTER Streams",
+	"created" : 1414374127.0
+},
+{
+	"title" : "How to Retry Java Method Call on Exception",
+	"created" : 1414265413.0
+},
+{
+	"title" : "Joining Strings With Delimiter Using StringJoiner Class In Java 8 ~ Code In Action",
+	"created" : 1414253465.0
+},
+{
+	"title" : "Redesign Java/C# Exception",
+	"created" : 1414211645.0
+},
+{
+	"title" : "Design Patterns: Facade Pattern in Java",
+	"created" : 1414205553.0
+},
+{
+	"title" : "Static Linking in OSGi (Java)",
+	"created" : 1414205198.0
+},
+{
+	"title" : "constructor overloading doubt in java",
+	"created" : 1414203000.0
+},
+{
+	"title" : "Free self guided java classes for middle and high school students",
+	"created" : 1414108068.0
+},
+{
+	"title" : "Jssembly – Native x86/x64/ARM Assembly via JNI Bridge in Java",
+	"created" : 1414126250.0
+},
+{
+	"title" : "Java for beginners tutorial – DAY 1",
+	"created" : 1414125239.0
+},
+{
+	"title" : "How to Implement an Interface in Java [This guy deserves more likes/subs]",
+	"created" : 1414118319.0
+},
+{
+	"title" : "Send Your Best Java Hacks and Win Kano Computers",
+	"created" : 1414080496.0
+},
+{
+	"title" : "C# or Java – Which one is better ?",
+	"created" : 1414084553.0
+},
+{
+	"title" : "OpenXava 5.1 released: Rapid Development for Java",
+	"created" : 1413978972.0
+},
+{
+	"title" : "Java Error Tracker StackHunter v1.2 Available for Download [x-post from /r/java]",
+	"created" : 1413997002.0
+},
+{
+	"title" : "PrimeFaces - This is really an awesome framework for Java Server Faces",
+	"created" : 1413957267.0
+},
+{
+	"title" : "Protect Your Immutable Object Invariants in More Complex Java Objects",
+	"created" : 1413926900.0
+},
+{
+	"title" : "Easily make a Java API for a native library with Swig and CMake",
+	"created" : 1413914990.0
+},
+{
+	"title" : "Java 8 Survey: The results are In",
+	"created" : 1413934892.0
+},
+{
+	"title" : "StringBuilder and StringBuffer – A way to create mutable Strings in Java",
+	"created" : 1413914875.0
+},
+{
+	"title" : "Why char array is more secured than Strings in Java ? Is it for Security or What?",
+	"created" : 1413875272.0
+},
+{
+	"title" : "Fibonacci(50) performance : Java &gt; C &gt; C++ &gt; D &gt; Go &gt; Terra (Lua) &gt; Lua-JIT (Lua)",
+	"created" : 1413837368.0
+},
+{
+	"title" : "Which features do you really want to see in Java 9?",
+	"created" : 1413809427.0
+},
+{
+	"title" : "Functional Programming with Java 8 Functions",
+	"created" : 1413769648.0
+},
+{
+	"title" : "Aprof: a Java memory allocation profiler with very low performance impact",
+	"created" : 1413643317.0
+},
+{
+	"title" : "Java Tutorial Through Katas: Mars Rover",
+	"created" : 1413592694.0
+},
+{
+	"title" : "THINK JAVA: Solved exercises + video tutorials + programs for AP CS college assignments.",
+	"created" : 1413459895.0
+},
+{
+	"title" : "New Java 8 \"Object Support Mixin Pattern\" for overriding Object.equals(), hashCode(), toString() and compareTo() correctly",
+	"created" : 1413402787.0
+},
+{
+	"title" : "Upcoming Oracle Java SE 7u72 PSU (Java Platform Group, Product Management blog)",
+	"created" : 1413382187.0
+},
+{
+	"title" : "Java - Game programming(airhockey getRekt version)",
+	"created" : 1413371957.0
+},
+{
+	"title" : "Java 9 - Behind the Scenes: Where Do New Features Come From?",
+	"created" : 1413298982.0
+},
+{
+	"title" : "A Java conversion puzzler, not suitable for work (or interviews)",
+	"created" : 1413296056.0
+},
+{
+	"title" : "Video: JavaOne Keynote about Java 8, Java 9 and beyond",
+	"created" : 1413237279.0
+},
+{
+	"title" : "DL4J: Deep Learning for Java",
+	"created" : 1413237236.0
+},
+{
+	"title" : "50 New Features of Java EE 7",
+	"created" : 1413256960.0
+},
+{
+	"title" : "How A Major Bank Hacked Its Java Security",
+	"created" : 1413231454.0
+},
+{
+	"title" : "Calling Java 8 functions from Scala",
+	"created" : 1413216487.0
+},
+{
+	"title" : "Pre &amp; post increment operator behavior in C, C++, Java, &amp; C#",
+	"created" : 1413211171.0
+},
+{
+	"title" : "Ten practical tips for young Java web developers",
+	"created" : 1413226877.0
+},
+{
+	"title" : "A great little tool to help learn the fundametals of java",
+	"created" : 1413169777.0
+},
+{
+	"title" : "ciclo while – java (producto entre dos numeros)",
+	"created" : 1413072224.0
+},
+{
+	"title" : "The Heroes of Java (and Ruby): Dan Allen",
+	"created" : 1413031215.0
+},
+{
+	"title" : "Cognitect brings Transducers to Java, JavaScript and Ruby",
+	"created" : 1412970070.0
+},
+{
+	"title" : "The State Monad - in Java",
+	"created" : 1412910925.0
+},
+{
+	"title" : "DukeScript - Java Everywhere Again?",
+	"created" : 1412863905.0
+},
+{
+	"title" : "GroupSnap - a simple Java server for adding group functionality to Snapchat",
+	"created" : 1412818798.0
+},
+{
+	"title" : "3 Ways IBM is bringing GPU Computing to Java",
+	"created" : 1412815837.0
+},
+{
+	"title" : "Evolving Java-based APIs",
+	"created" : 1412788279.0
+},
+{
+	"title" : "Java 8 Lambdas - A Peek Under the Hood",
+	"created" : 1412725158.0
+},
+{
+	"title" : "Benchmarking every CSV parser for Java in existence once again.",
+	"created" : 1412658268.0
+},
+{
+	"title" : "Java Code Geeks and ej-technologies are giving away FREE JProfiler Licenses (worth over $2000)!",
+	"created" : 1412614409.0
+},
+{
+	"title" : "Digraphs, Dags, and Trees in Java",
+	"created" : 1412635746.0
+},
+{
+	"title" : "Java and Scala become official clients of the Iris cloud messaging system",
+	"created" : 1412613345.0
+},
+{
+	"title" : "I have created a very basic digital diary, there is still a lot to adjust but I decided to release it today. I did this to see my skills at programming in Java but it seems that I still need to work on my GUI. Please leave a comment to let me know what you think .",
+	"created" : 1412562308.0
+},
+{
+	"title" : "Benchmarking every (working) CSV parser for Java in existence.",
+	"created" : 1412477611.0
+},
+{
+	"title" : "New tool helps debug Java exceptions faster",
+	"created" : 1412484215.0
+},
+{
+	"title" : "Srinivasan's Java Blog: Random Access Gzip File Approach",
+	"created" : 1412454435.0
+},
+{
+	"title" : "Java Annotations - Why Java Sucks",
+	"created" : 1412463403.0
+},
+{
+	"title" : "Why System.in, System.out and System.err are static in Java ~ Code In Action",
+	"created" : 1412355971.0
+},
+{
+	"title" : "Migrating 3 million cities into your database in around a minute with the uniVocity data integration framework.(x-post from r/java)",
+	"created" : 1412357620.0
+},
+{
+	"title" : "Java Pattern for the High speed Data processing Hibernate, JDBC alternate to PLSQL",
+	"created" : 1412194233.0
+},
+{
+	"title" : "DukeScript brings Java to HTML5, JavaScript",
+	"created" : 1412131241.0
+},
+{
+	"title" : "SQL mistakes during java JDBC and hibernate coding",
+	"created" : 1412129465.0
+},
+{
+	"title" : "Oracle highlights continued Java SE momentum and innovation at JavaOne 2014",
+	"created" : 1412069173.0
+},
+{
+	"title" : "Java Magazine - September/October 2014",
+	"created" : 1412051384.0
+},
+{
+	"title" : "Java EE 8 is Kicking Off",
+	"created" : 1412027134.0
+},
+{
+	"title" : "Safe Publication and Safe Initialization in Java",
+	"created" : 1411945542.0
+},
+{
+	"title" : "Why do I not understand Java script?",
+	"created" : 1411913005.0
+},
+{
+	"title" : "Java8 lambdas are broken by design",
+	"created" : 1411870237.0
+},
+{
+	"title" : "Compiling Brainfuck to Java, in Brainfuck",
+	"created" : 1411752512.0
+},
+{
+	"title" : "Optional Type, An Alternative To Null In Java 8 ~ Code In Action",
+	"created" : 1411622845.0
+},
+{
+	"title" : "List of resources about TomEE, the ultra lightweight Java EE container by David Blevins",
+	"created" : 1411555555.0
+},
+{
+	"title" : "Hunting Java Concurrency Bugs",
+	"created" : 1411493370.0
+},
+{
+	"title" : "How Java is used to develop NASA's space mission software",
+	"created" : 1411504313.0
+},
+{
+	"title" : "Everything about Java EE 8 (fall update)",
+	"created" : 1411476996.0
+},
+{
+	"title" : "Java EE 8 JSRs Unanimously Approved",
+	"created" : 1411463947.0
+},
+{
+	"title" : "Deploy Java EE in the cloud with JBoss OpenShift",
+	"created" : 1411414311.0
+},
+{
+	"title" : "Java EE 8 will not include Configuration JSR for Java EE applications",
+	"created" : 1411413870.0
+},
+{
+	"title" : "How to duplicate a Stream in Java 8",
+	"created" : 1411413779.0
+},
+{
+	"title" : "Core Support for JSON in Java 9",
+	"created" : 1411409213.0
+},
+{
+	"title" : "JamVM -- An extremely compact Java Virtual Machine alternative",
+	"created" : 1411383762.0
+},
+{
+	"title" : "Java Weekly #12: Java EE Boot, Java 9, functional programming and more ...",
+	"created" : 1411383633.0
+},
+{
+	"title" : "Meet the Java EE 8 Experts at JavaOne",
+	"created" : 1411373825.0
+},
+{
+	"title" : "Everything You Never Wanted to Know About java.util.concurrent.ExecutorService But Needed To",
+	"created" : 1411391846.0
+},
+{
+	"title" : "This is JAVA!",
+	"created" : 1411338866.0
+},
+{
+	"title" : "When the Java 8 Streams API is not Enough",
+	"created" : 1411338561.0
+},
+{
+	"title" : "MVC 1.0 JSR Created for Java EE",
+	"created" : 1411320325.0
+},
+{
+	"title" : "A blast to the past; the state of Java in 2001",
+	"created" : 1411341452.0
+},
+{
+	"title" : "Programmers could get REPL in official Java",
+	"created" : 1411315341.0
+},
+{
+	"title" : "TIL; Blackdown Java was the Linux port of Sun's JDK that Sun themselves later re-used for their Linux version",
+	"created" : 1411258678.0
+},
+{
+	"title" : "I made a Java program that combines random picture of Gary Busey with a random Nietzche quote. You're welcome.",
+	"created" : 1411258317.0
+},
+{
+	"title" : "WTF Java? Why Not Overload == for Java.lang.Long?",
+	"created" : 1411189412.0
+},
+{
+	"title" : "Java EE Page View Servlet : Simple app analytics",
+	"created" : 1411169425.0
+},
+{
+	"title" : "What every Java developer needs to know about Java 9",
+	"created" : 1411165127.0
+},
+{
+	"title" : "modernizer-maven-plugin: detects use of legacy APIs which modern Java versions supersede",
+	"created" : 1411145546.0
+},
+{
+	"title" : "12 Java Snippets you won’t believe actually compile",
+	"created" : 1411161732.0
+},
+{
+	"title" : "Scala and Java 8 type inference in higher order functions sample",
+	"created" : 1411121458.0
+},
+{
+	"title" : "12 Java Snippets you won't believe actually compile",
+	"created" : 1411121001.0
+},
+{
+	"title" : "New Java \"Interface Builder Pattern\", an improved Builder Pattern",
+	"created" : 1411074800.0
+},
+{
+	"title" : "Free Tool for Generating JUnit Tests for Android Apps (Java)",
+	"created" : 1411099934.0
+},
+{
+	"title" : "Why is Java's String#replace() so slow?",
+	"created" : 1411065274.0
+},
+{
+	"title" : "5 Error Tracking Tools Java Developers Should Know",
+	"created" : 1411059301.0
+},
+{
+	"title" : "Java 2nd most active language on GitHub",
+	"created" : 1411056831.0
+},
+{
+	"title" : "Java Atomic Operations And Nonblocking Algorithms Tutorial With Examples | TutorialsDesk",
+	"created" : 1411014433.0
+},
+{
+	"title" : "Java EE Configuration JSR Deferred",
+	"created" : 1410992515.0
+},
+{
+	"title" : "Dart as a Replacement for Java on Android",
+	"created" : 1410972393.0
+},
+{
+	"title" : "model of the human brain in Java with 1 theorized prediction algorithm",
+	"created" : 1410971708.0
+},
+{
+	"title" : "Implementing container authorization in Java EE with JACC",
+	"created" : 1410957799.0
+},
+{
+	"title" : "Event Capturing And Event Bubbling in Java Script",
+	"created" : 1410935270.0
+},
+{
+	"title" : "Java 8: Not Just For Developers Any More (Henrik on Java)",
+	"created" : 1410884007.0
+},
+{
+	"title" : "Critique of Stripe’s Java APIs",
+	"created" : 1410853870.0
+},
+{
+	"title" : "Baratine distributed microservices for Java",
+	"created" : 1410823551.0
+},
+{
+	"title" : "Java Weekly #11: Missing stream method, Java 9 overview, lost updates and more...",
+	"created" : 1410822890.0
+},
+{
+	"title" : "Java is cool!",
+	"created" : 1410822693.0
+},
+{
+	"title" : "Query the Internet Chunk Norris Database using Java and Gson",
+	"created" : 1410787871.0
+},
+{
+	"title" : "As a new programmer (Java) this stuff blows my mind...No Man's Sky programmer interview",
+	"created" : 1410671749.0
+},
+{
+	"title" : "shared .NET, OSX and Java libraries with RemObjects C# tutorial",
+	"created" : 1410619905.0
+},
+{
+	"title" : "java.util.HashMap in detail with a program",
+	"created" : 1410510853.0
+},
+{
+	"title" : "Learn Java Programming and More Interactively",
+	"created" : 1410534436.0
+},
+{
+	"title" : "Solving ORM - Keep the O, Drop the R, no need for the M - a production-ready ORM alternative hiding in plain sight in the Java world",
+	"created" : 1410422624.0
+},
+{
+	"title" : "iLog v0.1 is here",
+	"created" : 1410422987.0
+},
+{
+	"title" : "Java 9 - The Ultimate Feature List",
+	"created" : 1410358958.0
+},
+{
+	"title" : "OSGi Alliance Blog: The Unbearable Uncoolness of Java",
+	"created" : 1410298075.0
+},
+{
+	"title" : "First Class Functions in Java 8",
+	"created" : 1410265610.0
+},
+{
+	"title" : "JMH (Java-Microbenchmarking-Harness) collection of posts and resources",
+	"created" : 1410188227.0
+},
+{
+	"title" : "programming \"Binary Sudoku\" in Java live on Twitch.tv",
+	"created" : 1410117914.0
+},
+{
+	"title" : "3 different ways to create a custom event in java",
+	"created" : 1410039379.0
+},
+{
+	"title" : "Java Puzzle: Can You Change One Word to Fix This Bug?",
+	"created" : 1409870824.0
+},
+{
+	"title" : "adt4j: Algebraic Data Types for Java 0.8.1 released with getters and serialization support",
+	"created" : 1409823791.0
+},
+{
+	"title" : "Simple command line parsing library for Java",
+	"created" : 1409747409.0
+},
+{
+	"title" : "Do you suffer from java.sql.Date above java.util.Date in Eclipse? - New completion tweaks and subwords improvements for the Eclipse IDE",
+	"created" : 1409747325.0
+},
+{
+	"title" : "Java Naming Conventions",
+	"created" : 1409740754.0
+},
+{
+	"title" : "Why *another* MVC framework in Java EE?",
+	"created" : 1409682929.0
+},
+{
+	"title" : "A wonderful Game of Thrones parody for Java!",
+	"created" : 1409602812.0
+},
+{
+	"title" : "Creating Java objects using the Builder Pattern, with extended pattern",
+	"created" : 1409627001.0
+},
+{
+	"title" : "Predicting the next Math.random() in Java",
+	"created" : 1409591642.0
+},
+{
+	"title" : "SimpleFlatMapper - fastest, lightweight no configuration ORMapping for java",
+	"created" : 1409601540.0
+},
+{
+	"title" : "Is Oracle doing enough for Java 9?",
+	"created" : 1409563603.0
+},
+{
+	"title" : "String Deduplication - A new feature in Java 8 Update 20",
+	"created" : 1409583051.0
+},
+{
+	"title" : "AsyncBatch - A java script class for running simultaneous batches of asynchronous functions",
+	"created" : 1409543774.0
+},
+{
+	"title" : "Reactive Actors in Java",
+	"created" : 1409468135.0
+},
+{
+	"title" : "java sample codes",
+	"created" : 1409436055.0
+},
+{
+	"title" : "String Deduplication - A new feature in Java 8 Update 20",
+	"created" : 1409333684.0
+},
+{
+	"title" : "Mirah: Where Java Meets Ruby",
+	"created" : 1409250310.0
+},
+{
+	"title" : "Type Safe Heterogenous Containers in Java",
+	"created" : 1409244846.0
+},
+{
+	"title" : "Java EE 7 Real World Experience: Campground Management with Tipi.camp",
+	"created" : 1409237878.0
+},
+{
+	"title" : "What the Java community is saying about the Java 9 features",
+	"created" : 1409155853.0
+},
+{
+	"title" : "Java 9 is coming with money api",
+	"created" : 1409149062.0
+},
+{
+	"title" : "Constructor References In Java 8 ~ Code In Action",
+	"created" : 1409144184.0
+},
+{
+	"title" : "Spring autowired bean prototype scope using JSR 330 Provider Java Example",
+	"created" : 1409062582.0
+},
+{
+	"title" : "Spring Data REST Java Configuration Example",
+	"created" : 1409059398.0
+},
+{
+	"title" : "honest-profiler - A Better Java Profiler?",
+	"created" : 1408992295.0
+},
+{
+	"title" : "Analyzing the “ecological footprint” of java algorithms",
+	"created" : 1408903741.0
+},
+{
+	"title" : "From Java 7 to Java 8: five case studies (starting at 08:37)",
+	"created" : 1408813775.0
+},
+{
+	"title" : "JRuby: Performance Plus the Whole Java World on a Silver Platter",
+	"created" : 1408724730.0
+},
+{
+	"title" : "The dream which made me reconsider Java",
+	"created" : 1408719970.0
+},
+{
+	"title" : "Using PowerMockito to Mock Final and Static Methods in Java Unit Testing",
+	"created" : 1408685435.0
+},
+{
+	"title" : "Everything you need to know about Java EE 8",
+	"created" : 1408659913.0
+},
+{
+	"title" : "Java Development Kit 8u20 update arrives with new enterprise features",
+	"created" : 1408634324.0
+},
+{
+	"title" : "Java Multiplayer Libgdx Tutorial",
+	"created" : 1408632372.0
+},
+{
+	"title" : "Method References In JAVA 8 ~ Code In Action",
+	"created" : 1408599838.0
+},
+{
+	"title" : "Sound Effect Management with an LRU Cache in Java",
+	"created" : 1408471147.0
+},
+{
+	"title" : "Bad Java, no cake for you! – Java 8 default methods versus Scala traits",
+	"created" : 1408443434.0
+},
+{
+	"title" : "Java 9 features announced!",
+	"created" : 1408404524.0
+},
+{
+	"title" : "Flow Based Programming Inventor John Paul Morrisons Java FBP implementation now on Github",
+	"created" : 1408375506.0
+},
+{
+	"title" : "[Video]Kevlin Henney: 7 ineffective coding habits of many Java programmers",
+	"created" : 1408144789.0
+},
+{
+	"title" : "Introducing QuickML: A powerful machine learning library for Java, including Random Forests and a hyper-parameter optimizer",
+	"created" : 1408127480.0
+},
+{
+	"title" : "10 Reasons to Learn Java Programming",
+	"created" : 1408142687.0
+},
+{
+	"title" : "How to implement a goroutine / select idiom in java scala?",
+	"created" : 1408101628.0
+},
+{
+	"title" : "Cadmus: A Primer in Java",
+	"created" : 1408020301.0
+},
+{
+	"title" : "Evolving Java",
+	"created" : 1407836112.0
+},
+{
+	"title" : "In Detail : Lambda Expressions In JAVA 8",
+	"created" : 1407821255.0
+},
+{
+	"title" : "Brian Goetz: Evolving Java",
+	"created" : 1407795698.0
+},
+{
+	"title" : "Java Interview Questions - 48 - Lessons99 | Guru99",
+	"created" : 1407756955.0
+},
+{
+	"title" : "Microsoft and Java: Internet Explorer’s next patch to block old Java ActiveX plugins",
+	"created" : 1407772299.0
+},
+{
+	"title" : "Top 10 Ceylon Language Features I Wish We Had In Java",
+	"created" : 1407772255.0
+},
+{
+	"title" : "Why is it so hard to make a Java program appear native?",
+	"created" : 1407731741.0
+},
+{
+	"title" : "CodeExchange – A new Java code search engine",
+	"created" : 1407534581.0
+},
+{
+	"title" : "Functional Interfaces In JAVA8 ~ Code In Action",
+	"created" : 1407514283.0
+},
+{
+	"title" : "univocity-parsers - a suite of open-source parsers for java (contributions more than welcome)",
+	"created" : 1407512738.0
+},
+{
+	"title" : "The DRY Principle: Java for Android Example",
+	"created" : 1407497171.0
+},
+{
+	"title" : "Stephen Colebourne's blog: StringJoiner in Java SE 8",
+	"created" : 1407417516.0
+},
+{
+	"title" : "Project Panama builds a bridge between Java and C/C++ | Java programming",
+	"created" : 1407432455.0
+},
+{
+	"title" : "Learn java",
+	"created" : 1407339928.0
+},
+{
+	"title" : "Does Java 8's lambda capability make Scala obsolete?",
+	"created" : 1407261785.0
+},
+{
+	"title" : "Life is unfair, specially for IEEE double numbers (Java)",
+	"created" : 1407276262.0
+},
+{
+	"title" : "Fibonacci numbers on the Galaxy S3: ARMv7 benchmark of Rust, Ocaml, Haskell, Go, Racket, Lua, C# and Java",
+	"created" : 1407221085.0
+},
+{
+	"title" : "Scala 2.12 Will Only Support Java 8",
+	"created" : 1407182232.0
+},
+{
+	"title" : "A first glimpse at Java 9: Early access release of JDK9 on OpenJDK",
+	"created" : 1407165178.0
+},
+{
+	"title" : "Java Steam API - Access the Steam storefront API through Java",
+	"created" : 1407080242.0
+},
+{
+	"title" : "Comparing Java HTTP Servers' Latencies",
+	"created" : 1407041101.0
+},
+{
+	"title" : "Java EE Tutorial #11 - Built-in JSF Validation",
+	"created" : 1407029104.0
+},
+{
+	"title" : "The 10 Most Annoying Things Coming Back to Java After Some Days of Scala",
+	"created" : 1406899495.0
+},
+{
+	"title" : "Java EE Tutorial #10 - Using Ajax with JSF",
+	"created" : 1406888288.0
+},
+{
+	"title" : "Value Objects in Java &amp; Python",
+	"created" : 1406820433.0
+},
+{
+	"title" : "Taking input from user in java",
+	"created" : 1406807593.0
+},
+{
+	"title" : "Java EE Tutorial #9 - JSF Navigation",
+	"created" : 1406793926.0
+},
+{
+	"title" : "HTTP/2 and Java",
+	"created" : 1406713878.0
+},
+{
+	"title" : "Clean JUnit Throwable-Tests with Java 8 Lambdas",
+	"created" : 1406645419.0
+},
+{
+	"title" : "I've started a library to convert Java to GLSL for fun, any thoughs ?",
+	"created" : 1406623252.0
+},
+{
+	"title" : "I've made a java library for scraping a website using annotations",
+	"created" : 1406594291.0
+},
+{
+	"title" : "How to take over the computer of any Java (or Clojure or Scala) developer",
+	"created" : 1406617969.0
+},
+{
+	"title" : "Oracle Launches Project Valhalla for Java",
+	"created" : 1406562255.0
+},
+{
+	"title" : "[x-post from r/java] Exception Handling in Asynchronous Java Code",
+	"created" : 1406559409.0
+},
+{
+	"title" : "Wildcards in Java and Ceylon",
+	"created" : 1406525704.0
+},
+{
+	"title" : "Pure Java Implementation of a Fast Interactive 3D Graph Rendering Engine and Editor Using a Spring Embedder Algorithm Optimized for Multicore CPUs",
+	"created" : 1406503454.0
+},
+{
+	"title" : "Java 8 update 11 broke JRebel and Groovy - and probably other JVM languages too! Is this intentional by Oracle?",
+	"created" : 1406491703.0
+},
+{
+	"title" : "A short article on how to learn java programming",
+	"created" : 1406445733.0
+},
+{
+	"title" : "Parallel-lazy Performance: Java 8 vs Scala vs GS Collections",
+	"created" : 1406387251.0
+},
+{
+	"title" : "2 Features That Have Reshaped Java Programming Language",
+	"created" : 1406401314.0
+},
+{
+	"title" : "Half of security pros believe Java apps are vulnerable to attacks",
+	"created" : 1406283950.0
+},
+{
+	"title" : "Why is it so hard to find good Java developers?",
+	"created" : 1406281290.0
+},
+{
+	"title" : "Java 8 release demonstrates that a language can be modernized without compromising stability or backward compatibility",
+	"created" : 1406214563.0
+},
+{
+	"title" : "Python bumps off Java as top learning language",
+	"created" : 1406206726.0
+},
+{
+	"title" : "Java Developers",
+	"created" : 1406029067.0
+},
+{
+	"title" : "Thread pools in Java - A quick introduction",
+	"created" : 1406004637.0
+},
+{
+	"title" : "Project Oberon emulator in JavaScript and Java",
+	"created" : 1405978516.0
+},
+{
+	"title" : "The Java Origins of Angular JS (Angular vs JSF vs GWT)",
+	"created" : 1405969978.0
+},
+{
+	"title" : "C++ and Java over Python in Google products",
+	"created" : 1405938716.0
+},
+{
+	"title" : "Lambdas have come to Java!",
+	"created" : 1405763036.0
+},
+{
+	"title" : "Contexts and Dependency Injection for Java 2.0 (CDI 2.0)",
+	"created" : 1405633758.0
+},
+{
+	"title" : "List of good books on Java Performance Tuning",
+	"created" : 1405611373.0
+},
+{
+	"title" : "Build HTML Trees in Java Code (x-post r/java)",
+	"created" : 1405534869.0
+},
+{
+	"title" : "Java Debuggers and Timeouts",
+	"created" : 1405524147.0
+},
+{
+	"title" : "lanterna - Easy console text GUI library for Java",
+	"created" : 1405501709.0
+},
+{
+	"title" : "July/August Java Magazine: The JVM and alternative languages for the JVM",
+	"created" : 1405500733.0
+},
+{
+	"title" : "OpenXava 5.0.1: Rapid Development for Java",
+	"created" : 1405420251.0
+},
+{
+	"title" : "Java's generics are getting more generic",
+	"created" : 1405364649.0
+},
+{
+	"title" : "[JAVA] State of the Specialization by Brian Goetz",
+	"created" : 1405250010.0
+},
+{
+	"title" : "Java 8 Predicates and Functions",
+	"created" : 1405188015.0
+},
+{
+	"title" : "An introductory article to Image processing in Java",
+	"created" : 1405184386.0
+},
+{
+	"title" : "Write PhoneGap(Cordova) applications in Java.",
+	"created" : 1405183705.0
+},
+{
+	"title" : "Java Memory Model Pragmatics (transcript)",
+	"created" : 1405177405.0
+},
+{
+	"title" : "0xCAFEBABE ? - java class file format, an overview",
+	"created" : 1405112709.0
+},
+{
+	"title" : "Call for Entries: Java Interview Questions",
+	"created" : 1405100427.0
+},
+{
+	"title" : "A performance comparison redux: Java, C, and Renderscript on the Nexus 5",
+	"created" : 1405071769.0
+},
+{
+	"title" : "Java 8 and JVM: what’s new in HotSpot? by Oracle's Vladimir Ivanov",
+	"created" : 1405068670.0
+},
+{
+	"title" : "Couchbase Java SDK 2.0.0 Developer Preview 2",
+	"created" : 1405068279.0
+},
+{
+	"title" : "Defaults in Java EE 7",
+	"created" : 1405018652.0
+},
+{
+	"title" : "Java 8 null type annotations in Eclipse Luna (v4.4) - your last NullPointerException ever, The End of the World as we know it? ;-)",
+	"created" : 1404918093.0
+},
+{
+	"title" : "Java EE 7 and more on WebLogic 12.1.3",
+	"created" : 1404917983.0
+},
+{
+	"title" : "Top 50 Threading Questions from Java Interviews",
+	"created" : 1404917938.0
+},
+{
+	"title" : "RxJava + Java SE 8 + Java EE 7 + Arquillian = Bliss",
+	"created" : 1404899347.0
+},
+{
+	"title" : "Scala: Tail Recursion Optimisation and comparison to Java",
+	"created" : 1404667243.0
+},
+{
+	"title" : "Cross-language performance benchmarks: \"Java vs. Scala: Divided We Fail\"",
+	"created" : 1404466271.0
+},
+{
+	"title" : "How to make Java more dynamic with runtime code generation",
+	"created" : 1404325060.0
+},
+{
+	"title" : "What's wrong in Java 8, part V: Tuples",
+	"created" : 1403864856.0
+},
+{
+	"title" : "Java EE Pitfalls #1: Ignore the default lock of a @Singleton",
+	"created" : 1403689723.0
+},
+{
+	"title" : "A modern testing and behavioural specification framework for Java 8",
+	"created" : 1403649497.0
+},
+{
+	"title" : "An insider's guide to Java programming (x-post /r/java)",
+	"created" : 1403624080.0
+},
+{
+	"title" : "Integrating Play for Java and Akka",
+	"created" : 1403598260.0
+},
+{
+	"title" : "Switching from Java to Python – First Impressions",
+	"created" : 1403510646.0
+},
+{
+	"title" : "It’s not Spring anymore it's the summer of Java EE 7!",
+	"created" : 1403347100.0
+},
+{
+	"title" : "Clash of the Lambdas. Comparing Lambda Performance in Java, Scala, C#, and F#",
+	"created" : 1403268637.0
+},
+{
+	"title" : "The Magic Forest problem revisited: optimising Java with the help of D.",
+	"created" : 1403287323.0
+},
+{
+	"title" : "Scala is faster than Java",
+	"created" : 1403248576.0
+},
+{
+	"title" : "Javascript for Java Developers - The Pain Points (Language Comparison)",
+	"created" : 1403204017.0
+},
+{
+	"title" : "Want to be a Java developer?",
+	"created" : 1403187137.0
+},
+{
+	"title" : "Java Build Tools: Ant vs Maven vs Gradle",
+	"created" : 1403102218.0
+},
+{
+	"title" : "Java Application Architecture Tutorial 1: Wiring-up The Spring Framework",
+	"created" : 1403037900.0
+},
+{
+	"title" : "Java OutOfMemoryError cheatsheet",
+	"created" : 1402990772.0
+},
+{
+	"title" : "Java 8 Resources - Java 8 Cheatsheet",
+	"created" : 1402886053.0
+},
+{
+	"title" : "Tuning Garbage Collection for Mission-Critical Java Applications - Tuning Guidelines for Java Garbage Collection, Part 1",
+	"created" : 1402818146.0
+},
+{
+	"title" : "Cluster-wide Java/Scala application deployments with Docker, Chef and Amazon OpsWorks",
+	"created" : 1402700790.0
+},
+{
+	"title" : "10 Subtle Mistakes When Using the Java Streams API",
+	"created" : 1402698594.0
+},
+{
+	"title" : "Fast offline reverse geocoding java library",
+	"created" : 1402689952.0
+},
+{
+	"title" : "OpenXava 5.0 released: Rapid Development for Java",
+	"created" : 1402569845.0
+},
+{
+	"title" : "k-NN, Rust vs. OCaml vs. ... Java 6",
+	"created" : 1402442673.0
+},
+{
+	"title" : "The code written for java can run anywhere. But how it is possible?",
+	"created" : 1402293495.0
+},
+{
+	"title" : "Safeguarding Against Java Remote Execution",
+	"created" : 1402179081.0
+},
+{
+	"title" : "Deep Learning in Java",
+	"created" : 1402060210.0
+},
+{
+	"title" : "Why Java is used more than Python in big and medium corporations",
+	"created" : 1402073418.0
+},
+{
+	"title" : "This isn't the reason, Java .NET have the same features!",
+	"created" : 1402042009.0
+},
+{
+	"title" : "Manipulate Excel Files in Java (semi-natively)",
+	"created" : 1402041579.0
+},
+{
+	"title" : "Java Text - When Platform Independence Fails",
+	"created" : 1401993690.0
+},
+{
+	"title" : "Performance Comparison of Java 8, C++ 11 and the Wolfram Language",
+	"created" : 1401990375.0
+},
+{
+	"title" : "Create native mobile apps with Java",
+	"created" : 1401939439.0
+},
+{
+	"title" : "KTByte: Java Tutorials, Camps and Classes | Summer Classes in Computer Science will focus on Robotics, AI, and USACO",
+	"created" : 1401712155.0
+},
+{
+	"title" : "Try and run Java 8 Lambdas &amp; Collections in your browser",
+	"created" : 1401492120.0
+},
+{
+	"title" : "Fast Java paste bin with compiler",
+	"created" : 1401389498.0
+},
+{
+	"title" : "Scalable, Robust - and Standard - Java Web Services with Fibers",
+	"created" : 1401385219.0
+},
+{
+	"title" : "Java | Constructor vs. Method, a comparison for entry level programmers.",
+	"created" : 1401384584.0
+},
+{
+	"title" : "Most popular Java application servers in 2014",
+	"created" : 1401371389.0
+},
+{
+	"title" : "Announcing Java 8",
+	"created" : 1401332862.0
+},
+{
+	"title" : "Collaborative Java editor in browser, with lighting fast compilation + execution",
+	"created" : 1401315454.0
+},
+{
+	"title" : "Easily create native apps using Java for iOS, Android, Windows, RIM and more!",
+	"created" : 1401288433.0
+},
+{
+	"title" : "Free Online: Learn Java Programming Instructor led training course",
+	"created" : 1401270801.0
+},
+{
+	"title" : "Interview with Philipp Crocoll on Java/C# Integration for Android",
+	"created" : 1401230657.0
+},
+{
+	"title" : "Null considered legal in Java identifiers",
+	"created" : 1401199299.0
+},
+{
+	"title" : "Java &amp; ME",
+	"created" : 1401192640.0
+},
+{
+	"title" : "Free Ebook – Learning Java(Fourth Edition)",
+	"created" : 1401133299.0
+},
+{
+	"title" : "Quicksort and Java 8",
+	"created" : 1401120445.0
+},
+{
+	"title" : "Yet Another 10 Common Mistakes Java Developers Make When Writing SQL",
+	"created" : 1401118818.0
+},
+{
+	"title" : "Live - Java Coding Contest - Code a Bot, Solve Challenges, Win Prizes!",
+	"created" : 1401114302.0
+},
+{
+	"title" : "Java 8, Spring, Hibernate, SSP — Let’s Play",
+	"created" : 1401078799.0
+},
+{
+	"title" : "Are you Java or Scala Developer? Use Takipi - real time code analysis technology!",
+	"created" : 1401010737.0
+},
+{
+	"title" : "Java is now the leader on Stack Overflow",
+	"created" : 1400840460.0
+},
+{
+	"title" : "Java is the COBOL of my generation and Go is its successor",
+	"created" : 1400795028.0
+},
+{
+	"title" : "Repeating annotations in Java 8",
+	"created" : 1400790505.0
+},
+{
+	"title" : "Employers want Java skills more than anything else",
+	"created" : 1400761963.0
+},
+{
+	"title" : "Initial Java EE 8 JSR Draft",
+	"created" : 1400698036.0
+},
+{
+	"title" : "Java Tools and Technologies Landscape for 2014",
+	"created" : 1400679084.0
+},
+{
+	"title" : "Garbage Collection Optimization for High-Throughput and Low-Latency Java Applications | LinkedIn Engineering",
+	"created" : 1400642777.0
+},
+{
+	"title" : "Better Java: a collection of modern Java patterns and libraries",
+	"created" : 1400536545.0
+},
+{
+	"title" : "Memory-mapping &gt;2gb of Data in Java",
+	"created" : 1400494571.0
+},
+{
+	"title" : "Implementing Java 8's Default and Static Interface Methods in C#",
+	"created" : 1400255360.0
+},
+{
+	"title" : "Java performance tuning guide: high performance Java",
+	"created" : 1400230689.0
+},
+{
+	"title" : "An Opinionated Guide to Modern Java, Part 3: Web Development",
+	"created" : 1400176466.0
+},
+{
+	"title" : "Fibonacci and Multibonacci Series Program in Java",
+	"created" : 1400158755.0
+},
+{
+	"title" : "I hate Java. The fact that those three classes (you'll know which ones) could be considered a good idea, let alone implemented fills me with rage.",
+	"created" : 1400127473.0
+},
+{
+	"title" : "RemoteBridge: examine and modify just about any internal component object model (COM) instantiation or Java object used by an application",
+	"created" : 1400093997.0
+},
+{
+	"title" : "Learn Programming in Java, Python, Ruby or Javascript (Updated)",
+	"created" : 1400089100.0
+},
+{
+	"title" : "Java 8 Optional: What's the Point?",
+	"created" : 1400077779.0
+},
+{
+	"title" : "Top 10 questions of Java Strings",
+	"created" : 1400019247.0
+},
+{
+	"title" : "I ported Kjetil Valle's tutorial for writing a Lisp like language to Java",
+	"created" : 1400007753.0
+},
+{
+	"title" : "10 JDK 7 Features to Revisit, Before You Welcome Java 8",
+	"created" : 1400006002.0
+},
+{
+	"title" : "From Java Code to Java Heap: Understanding the Memory Usage of Your Application",
+	"created" : 1399953683.0
+},
+{
+	"title" : "Why String is immutable in Java ?",
+	"created" : 1399922639.0
+},
+{
+	"title" : "All About JOptionPane Control in Java",
+	"created" : 1399911033.0
+},
+{
+	"title" : "Java Program on Swapping Two Numbers Without Using Third Variable",
+	"created" : 1399871548.0
+},
+{
+	"title" : "Spark - a web micro-framework in Java - rewritten to use lambdas &amp; Java 8!",
+	"created" : 1399852935.0
+},
+{
+	"title" : "Top 5 Free Integrated Development Environment (IDE) For JAVA Programming",
+	"created" : 1399816327.0
+},
+{
+	"title" : "Oddjet: Java API to use OpenOffice files as templates for PDFs",
+	"created" : 1399663581.0
+},
+{
+	"title" : "Oracle’s Java API code protected by copyright, appeals court rules",
+	"created" : 1399661641.0
+},
+{
+	"title" : "Introduction To Java Programming",
+	"created" : 1399657910.0
+},
+{
+	"title" : "10 Features in Java 8 You Haven't Heard Of",
+	"created" : 1399571960.0
+},
+{
+	"title" : "An Opinionated Guide to Modern Java, Part 2",
+	"created" : 1399571552.0
+},
+{
+	"title" : "Python v/s Java : Which is more Productive for a Programmer",
+	"created" : 1399526508.0
+},
+{
+	"title" : "A path tracing renderer written in Java",
+	"created" : 1399500710.0
+},
+{
+	"title" : "Just updated my ADT4J library: Algebraic Data Types for Java. I think it's in pretty good shape and is already useful.",
+	"created" : 1399465558.0
+},
+{
+	"title" : "I've been building a gui-based program in Java to do some basic math functions and formulas. Feedback appreciated!",
+	"created" : 1399337461.0
+},
+{
+	"title" : "Translating C++ std::partition to Java",
+	"created" : 1399294212.0
+},
+{
+	"title" : "I'm cancelling my Netflix and using the time to learn PHP, jQuery, Java, and MySQL!",
+	"created" : 1399281266.0
+},
+{
+	"title" : "Custom annotations in Java",
+	"created" : 1399033004.0
+},
+{
+	"title" : "Value types for java, an official proposal by John Rose, Brian Goetz and Guy Steele!",
+	"created" : 1399027767.0
+},
+{
+	"title" : "Java ME 8 Released!",
+	"created" : 1398974224.0
+},
+{
+	"title" : "Not Your Father's Java: An Opinionated Guide to Modern Java Development, Part 1",
+	"created" : 1398965174.0
+},
+{
+	"title" : "java.awt.Shape's Insidious Insideness",
+	"created" : 1398950847.0
+},
+{
+	"title" : "Move over, Old Man Ruby -- your Java moment has arrived",
+	"created" : 1398810226.0
+},
+{
+	"title" : "some old java",
+	"created" : 1398790014.0
+},
+{
+	"title" : "Annotation basics in Java",
+	"created" : 1398668353.0
+},
+{
+	"title" : "Hammer.js, Ext, Flex,Sencha Touch, Google Maps and more ... for Java Developers",
+	"created" : 1398406020.0
+},
+{
+	"title" : "Java Tutorial Through Katas: Tennis Game (Easy)",
+	"created" : 1398353294.0
+},
+{
+	"title" : "C++-like resource management in Java",
+	"created" : 1398319955.0
+},
+{
+	"title" : "Show Proggit: I wrote an HDFS FUSE bindings entirely in C! No libhdfs, no Java -",
+	"created" : 1398283874.0
+},
+{
+	"title" : "Why Google preferred the Java stack for its products instead of Python",
+	"created" : 1398205649.0
+},
+{
+	"title" : "Why does Google prefer the Java stack for its products instead of Python?",
+	"created" : 1398202109.0
+},
+{
+	"title" : "Evolution of handling Null references in Java",
+	"created" : 1398200379.0
+},
+{
+	"title" : "Java is back? - Programming language trends in HWO",
+	"created" : 1398089181.0
+},
+{
+	"title" : "Early collection of Java EE 8 planning articles",
+	"created" : 1397741853.0
+},
+{
+	"title" : "AMD demos HSA for the server room with Java on top",
+	"created" : 1397723024.0
+},
+{
+	"title" : "[WTF] Secure Development \"What's a Java?\"",
+	"created" : 1397715149.0
+},
+{
+	"title" : "Pretty Map Literals for Java 8",
+	"created" : 1397653941.0
+},
+{
+	"title" : "java - AStar behaving weird when giving Path, sometimes it will cut off a few nodes from start?",
+	"created" : 1397576006.0
+},
+{
+	"title" : "Lois: Golang like channels for Java",
+	"created" : 1397469771.0
+},
+{
+	"title" : "C, Java and Javascript numeric benchmark and a big surprise",
+	"created" : 1397446966.0
+},
+{
+	"title" : "What is ConcurrentHashMap concept in java? Difference B/W HashMap and ConcurrentHashMap ?",
+	"created" : 1397402733.0
+},
+{
+	"title" : "3 good reasons to avoid using arrays in Java interface",
+	"created" : 1397293981.0
+},
+{
+	"title" : "8 Diagrams for Understanding Java",
+	"created" : 1397229198.0
+},
+{
+	"title" : "Programming quiz (mostly java) - only 5% success rate so far",
+	"created" : 1397211469.0
+},
+{
+	"title" : "Hotshot Programmers on Java vs. C++/Erlang/PHP/etc.; Discussion led by Erik Meijer",
+	"created" : 1397202019.0
+},
+{
+	"title" : "Free gift for programmers, Learning the job oriented language that JAVA is here, you can learn it for free till this course isn't getting paid so grab it quickly.",
+	"created" : 1397164315.0
+},
+{
+	"title" : "Java and Network Port Restrictions | Dr Dobb's",
+	"created" : 1396903209.0
+},
+{
+	"title" : "Java Multithreading Basics Tutorial",
+	"created" : 1396816116.0
+},
+{
+	"title" : "Java 8 Nashorn Tutorial",
+	"created" : 1396735889.0
+},
+{
+	"title" : "Learn how to write a dynamic Java N Queens solver in 7 easy steps!",
+	"created" : 1396719748.0
+},
+{
+	"title" : "Pulsar is a Clojure library that provides high-performance lightweight threads and Erlang-like actors. It is a Clojure API for the Quasar Java library, with the addition of pattern matching and an Erlang-like syntax.",
+	"created" : 1396719334.0
+},
+{
+	"title" : "P2PChat - Peer-to-peer java chat application.",
+	"created" : 1396709499.0
+},
+{
+	"title" : "Java 8: Behind The Glitz and Glamour of The New Parallelism APIs",
+	"created" : 1396604750.0
+},
+{
+	"title" : "Common Misconceptions About Java",
+	"created" : 1396543018.0
+},
+{
+	"title" : "Single Interface Java 8 Applications",
+	"created" : 1396523966.0
+},
+{
+	"title" : "Dexx Collections: Scala's immutable collections in pure Java",
+	"created" : 1396515498.0
+},
+{
+	"title" : "Java String pool Example",
+	"created" : 1396486030.0
+},
+{
+	"title" : "An Embedded Java 8 Lambda Expression Microbenchmark",
+	"created" : 1396451954.0
+},
+{
+	"title" : "And we *do* have multiple inheritance of state with Java 8",
+	"created" : 1396434282.0
+},
+{
+	"title" : "StaGen: A static site generator written in Java 8 supporting StringTemplate 4 for template rendering, Markdown for content and JSON for configuration.",
+	"created" : 1396354868.0
+},
+{
+	"title" : "Becoming really rich with Java 8",
+	"created" : 1396305983.0
+},
+{
+	"title" : "\"Java 8 got lambdas? Great, goodbye Scala forever!\"",
+	"created" : 1396199737.0
+},
+{
+	"title" : "Java Programming using only the Command Prompt",
+	"created" : 1396144566.0
+},
+{
+	"title" : "Universal Chess Interface - Advanced Java Chess Engine Tutorial 22 (+pla...",
+	"created" : 1396138854.0
+},
+{
+	"title" : "Why Enterprise Java Beans",
+	"created" : 1396059302.0
+},
+{
+	"title" : "Tools to Help You Convert Java to C# Source Code",
+	"created" : 1396008223.0
+},
+{
+	"title" : "Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!",
+	"created" : 1396006219.0
+},
+{
+	"title" : "Setting up Nginx on Amazon EC2 Using java Program",
+	"created" : 1395908057.0
+},
+{
+	"title" : "Will Java 8 Kill Scala?",
+	"created" : 1395893792.0
+},
+{
+	"title" : "Application development: back-end solution with Java",
+	"created" : 1395859054.0
+},
+{
+	"title" : "Java vs. Go: The case for cloud-specific languages (...case for what?)",
+	"created" : 1395833424.0
+},
+{
+	"title" : "Java 8 Friday: Java 8 Will Revolutionize Database Access",
+	"created" : 1395827258.0
+},
+{
+	"title" : "The Dark Side Of Lambda Expressions in Java 8",
+	"created" : 1395783324.0
+},
+{
+	"title" : "Common exception misuses in Java (and not only)",
+	"created" : 1395683925.0
+},
+{
+	"title" : "Java 7 one-liner to read file into string",
+	"created" : 1395678124.0
+},
+{
+	"title" : "Implementing container authorization in Java EE with JACC",
+	"created" : 1395643999.0
+},
+{
+	"title" : "How to make sorting for array elements in java?(Don't miss it)",
+	"created" : 1395564892.0
+},
+{
+	"title" : "The Optional type API in Java 8",
+	"created" : 1395432510.0
+},
+{
+	"title" : "55 New Features in Java SE 8",
+	"created" : 1395408865.0
+},
+{
+	"title" : "Finding Comic Covers with Java and the Marvel API",
+	"created" : 1395389644.0
+},
+{
+	"title" : "C# style properties in Java",
+	"created" : 1395354075.0
+},
+{
+	"title" : "How Java 8 Makes Multiple Inheritance Work Without Being a Giant Mess",
+	"created" : 1395340382.0
+},
+{
+	"title" : "Views in Java Collections Framework",
+	"created" : 1395255183.0
+},
+{
+	"title" : "Pluggable Type Systems in Java 8",
+	"created" : 1395230659.0
+},
+{
+	"title" : "Typesafe: \"Go Reactive with Java 8\"",
+	"created" : 1395185665.0
+},
+{
+	"title" : "Java 8 is here. Functional programming according to Oracle ...",
+	"created" : 1395173148.0
+},
+{
+	"title" : "Are Java 8 Lambda Expressions unnecessarily verbose?",
+	"created" : 1395116001.0
+},
+{
+	"title" : "Java 8 Tutorial",
+	"created" : 1395111829.0
+},
+{
+	"title" : "First-class functions in Java 8",
+	"created" : 1395086390.0
+},
+{
+	"title" : "how to make a shipping calculator using Bluej (Java)",
+	"created" : 1394761758.0
+},
+{
+	"title" : "Java Tutorial Through Katas: Fizz Buzz (Easy)",
+	"created" : 1394719519.0
+},
+{
+	"title" : "Significant SSL/TLS improvements in Java 8",
+	"created" : 1394695638.0
+},
+{
+	"title" : "Java Annotations, educating and entertaining",
+	"created" : 1394593953.0
+},
+{
+	"title" : "Programmers Embrace: Java 8 To Release This March!",
+	"created" : 1394492079.0
+},
+{
+	"title" : "How to make a Quiz Game in JAVA -- PART 1 Tutorial &amp;part 2",
+	"created" : 1394400132.0
+},
+{
+	"title" : "Free solution to hot swap Java code into your server without restarting!",
+	"created" : 1394392781.0
+},
+{
+	"title" : "Source Code Tales » Emulating the static initialization blocks of Java in C++",
+	"created" : 1394387667.0
+},
+{
+	"title" : "Java REPL",
+	"created" : 1394278885.0
+},
+{
+	"title" : "Java EE Tutorial #8 - Webservice with Jax-WS",
+	"created" : 1394215549.0
+},
+{
+	"title" : "Oracle gives up on collection literals for Java. Will now adopt Guave's approach.",
+	"created" : 1394183595.0
+},
+{
+	"title" : "Last minute critical Java 8 bug found. Will release be delayed?",
+	"created" : 1394138308.0
+},
+{
+	"title" : "Java EE 7 version of Spring Petclinic example app",
+	"created" : 1394132952.0
+},
+{
+	"title" : "Rediscovered one of my old toy projects. JEnigma - simple enigma machine in Java",
+	"created" : 1394113224.0
+},
+{
+	"title" : "Does Thought Crime Pay? Gilad Bracha ponders how Lisp, Simula, Actors, Beta, Smalltalk and Self give us C++, Java, Javascript, Perl, Python and PHP.",
+	"created" : 1393961009.0
+},
+{
+	"title" : "Recursively walking a directory using Java NIO",
+	"created" : 1393913577.0
+},
+{
+	"title" : "An Eclipse commiter launch a kickstarter to fund a Java IDE with better UX",
+	"created" : 1393857878.0
+},
+{
+	"title" : "Monkeypatching Java Classes",
+	"created" : 1393801830.0
+},
+{
+	"title" : "A better approach to handle Java NullPointerException in Java",
+	"created" : 1393741511.0
+},
+{
+	"title" : "Java EE Tutorial #7 - EJB Timer Service",
+	"created" : 1393608397.0
+},
+{
+	"title" : "Java 8: Local Transaction Scope",
+	"created" : 1393585593.0
+},
+{
+	"title" : "Results from Java EE 8 survey [pdf]",
+	"created" : 1393446063.0
+},
+{
+	"title" : "Calculating cryptographic hash functions in Java",
+	"created" : 1393439626.0
+},
+{
+	"title" : "10 examples of lambda expressions and streams in Java 8",
+	"created" : 1393428706.0
+},
+{
+	"title" : "Java8 - You Can Teach a Dog New Tricks",
+	"created" : 1393347458.0
+},
+{
+	"title" : "History of Java Language",
+	"created" : 1393347124.0
+},
+{
+	"title" : "Please stop saying Java sucks",
+	"created" : 1393346849.0
+},
+{
+	"title" : "Java 8 Tutorial Through Katas: Berlin Clock (Easy)",
+	"created" : 1393342207.0
+},
+{
+	"title" : "java - Why is printing \"B\" dramatically slower than printing \"#\"?",
+	"created" : 1393290900.0
+},
+{
+	"title" : "Java/JVM developers still prefer programming using desktop-based IDEs",
+	"created" : 1393272720.0
+},
+{
+	"title" : "Java Classloader - Handling Multiple Versions of The Same Class",
+	"created" : 1393251570.0
+},
+{
+	"title" : "Learn Java and JavaEE From Scratch",
+	"created" : 1393153537.0
+},
+{
+	"title" : "From Imperative Programming to Fork/Join to Parallel Streams in Java 8",
+	"created" : 1393094214.0
+},
+{
+	"title" : "Java EE Tutorial #6 - Resource Bundles and Internationalization",
+	"created" : 1393090082.0
+},
+{
+	"title" : "Java EE Tutorial #5 - JSF Resource Management",
+	"created" : 1393009464.0
+},
+{
+	"title" : "[Java]Mobile game programming for beginners. Starting 24th February. Anyone joining in ?",
+	"created" : 1393003188.0
+},
+{
+	"title" : "A Java state machine library which provided a lightweight, type safe, easy use, highly flexible and diagnosable implementation",
+	"created" : 1392980427.0
+},
+{
+	"title" : "JAAS in Java EE is not the universal standard you may think it is",
+	"created" : 1392979833.0
+},
+{
+	"title" : "java script collection",
+	"created" : 1392971781.0
+},
+{
+	"title" : "Reactive (Dataflow) Programming in Java and Clojure with Quasar and Pulsar",
+	"created" : 1392916931.0
+},
+{
+	"title" : "Why I prefer Java over C++",
+	"created" : 1392826105.0
+},
+{
+	"title" : "Javapocalypse - The Java Dooms Day",
+	"created" : 1392790365.0
+},
+{
+	"title" : "Google's Java Core Libraries Team (Guava, Dagger, Guice...) is doing an AMA on /r/java",
+	"created" : 1392749213.0
+},
+{
+	"title" : "Monadic futures in Java 8: How to organize your data flow and avoid callback hell",
+	"created" : 1392747942.0
+},
+{
+	"title" : "How to get common numbers and elements between two arrays in Java?",
+	"created" : 1392740807.0
+},
+{
+	"title" : "5 cursos gratuitos online para aprender a programar JAVA",
+	"created" : 1392681200.0
+},
+{
+	"title" : "Why &amp; How I Write Java",
+	"created" : 1392659918.0
+},
+{
+	"title" : "Java EE Tutorial #4.1 - Security Realms with Glassfish Part 1",
+	"created" : 1392658786.0
+},
+{
+	"title" : "Java SE 8 Date and Time",
+	"created" : 1392535869.0
+},
+{
+	"title" : "10 Reasons why Java rocks more than ever: Part 9 – backwards compatibility",
+	"created" : 1392495759.0
+},
+{
+	"title" : "Boon: Converting from Lists, Maps, and JSON and other boons to Java",
+	"created" : 1392476714.0
+},
+{
+	"title" : "Announcing Java ME 8 Early Access #2",
+	"created" : 1392476400.0
+},
+{
+	"title" : "Safe Object Publication in Java",
+	"created" : 1392389322.0
+},
+{
+	"title" : "8 Cool Things About Java Streams",
+	"created" : 1392386179.0
+},
+{
+	"title" : "8 Cool Things About Java Streams",
+	"created" : 1392381526.0
+},
+{
+	"title" : "When I say final [field in Java], I mean FINAL!",
+	"created" : 1392279441.0
+},
+{
+	"title" : "google-places-api-java: A comprehensive and FULL Java client for Google Places API",
+	"created" : 1392266053.0
+},
+{
+	"title" : "From Java to Scala: A Higher Order",
+	"created" : 1392241943.0
+},
+{
+	"title" : "Java 8 Cheatsheet: lambdas, method references, default methods and streams",
+	"created" : 1392218743.0
+},
+{
+	"title" : "Red Hat's JBoss team launch WildFly 8 with full Java EE 7 support and a new embeddable web server",
+	"created" : 1392205979.0
+},
+{
+	"title" : "Cubeia OpenSource Multiplayer game server written in Java. (For online games)",
+	"created" : 1392198377.0
+},
+{
+	"title" : "ThreeTen-Extra - Extra goodies for Java's new time API",
+	"created" : 1392147775.0
+},
+{
+	"title" : "The Java memory model under the hood",
+	"created" : 1392131909.0
+},
+{
+	"title" : "Java 8 will likely strip out Stripped Implementations",
+	"created" : 1392131596.0
+},
+{
+	"title" : "Java 8 Performance Improvements: LongAdder vs AtomicLong",
+	"created" : 1392111936.0
+},
+{
+	"title" : "Java ExecutorService Example",
+	"created" : 1392069332.0
+},
+{
+	"title" : "WildFly 8.0 joins roster of certified Java EE 7 servers",
+	"created" : 1392059587.0
+},
+{
+	"title" : "Static variables in Java?",
+	"created" : 1392045089.0
+},
+{
+	"title" : "Java: Stricter types with Java 8 Type Annotations",
+	"created" : 1391942232.0
+},
+{
+	"title" : "Career options for Java Developers in 2014",
+	"created" : 1391936221.0
+},
+{
+	"title" : "Create temporary files and directories using Java NIO2",
+	"created" : 1391808828.0
+},
+{
+	"title" : "KTByte challenge, making Java programming fun for your 9 to 15 year old.",
+	"created" : 1391807847.0
+},
+{
+	"title" : "Java Marshalling: A Performance Approach",
+	"created" : 1391716867.0
+},
+{
+	"title" : "JEP 188: Java Memory Model Update",
+	"created" : 1391697423.0
+},
+{
+	"title" : "The state of String in Java",
+	"created" : 1391630071.0
+},
+{
+	"title" : "Looking for assistance in getting a Java applet to run in browser. 'DogeClickWow'",
+	"created" : 1391610933.0
+},
+{
+	"title" : "Why Java applications fail to scale linearly: A simple explanation",
+	"created" : 1391607668.0
+},
+{
+	"title" : "OpenXava 4.9.1 released: Web Applications just writing Domain Java Classes",
+	"created" : 1391592447.0
+},
+{
+	"title" : "Quasar rewrites Java Bytecode to implement lightweight threads in the JVM",
+	"created" : 1391551177.0
+},
+{
+	"title" : "What Makes Node.js Faster Than Java?",
+	"created" : 1391550482.0
+},
+{
+	"title" : "How we are able to write System.out.println() in our Java code?",
+	"created" : 1391526610.0
+},
+{
+	"title" : "WebSockets in Java: A Tutorial",
+	"created" : 1391429024.0
+},
+{
+	"title" : "How can we execute Java program without main method? is it possible in all Java versions?",
+	"created" : 1391360613.0
+},
+{
+	"title" : "The Universe of Discourse : Why I like Java",
+	"created" : 1391359864.0
+},
+{
+	"title" : "Hardware Transactional Memory in Java, or why synchronized will be cool again.",
+	"created" : 1391335772.0
+},
+{
+	"title" : "A Geek Personal Blog: Java Thread Tutorial",
+	"created" : 1391281740.0
+},
+{
+	"title" : "Java EE Tutorial #3.1 - JPA Database Connection Part 1",
+	"created" : 1391193661.0
+},
+{
+	"title" : "connection pool java netbeans",
+	"created" : 1391104644.0
+},
+{
+	"title" : "Google Java Coding Standards",
+	"created" : 1391086705.0
+},
+{
+	"title" : "Java 8 Changes",
+	"created" : 1390927561.0
+},
+{
+	"title" : "Java vs. Native Agents - And How it Affects Your Code",
+	"created" : 1390924383.0
+},
+{
+	"title" : "Vindinium - a new HTTP based AI game with starter packs in scala, java, haskell, clojure, php and more",
+	"created" : 1390905866.0
+},
+{
+	"title" : "Java EE Tutorial #2 - Backing Beans and Life Cycles",
+	"created" : 1390845907.0
+},
+{
+	"title" : "Mechanics of Nintendo Tetris [6502 asm] and how to build a Tetris AI [Lua, Java]",
+	"created" : 1390845772.0
+},
+{
+	"title" : "Programming a State Machine in Java",
+	"created" : 1390798855.0
+},
+{
+	"title" : "From Java to Scala: Tail Recursion",
+	"created" : 1390761115.0
+},
+{
+	"title" : "How to Host your Java EE Application with Auto-scaling",
+	"created" : 1390716084.0
+},
+{
+	"title" : "Oracle Killed Java",
+	"created" : 1390687227.0
+},
+{
+	"title" : "I'm creating an introduction to Java programming series inspired by the community and want your feedback!",
+	"created" : 1390612729.0
+},
+{
+	"title" : "type system analysis for ruby and java",
+	"created" : 1390587967.0
+},
+{
+	"title" : "Ext4j: Ext JS for the Java Platform",
+	"created" : 1390567731.0
+},
+{
+	"title" : "JSR 356 Java API for WebSocket or Atmosphere?",
+	"created" : 1390558665.0
+},
+{
+	"title" : "Java, Scala, Guava and Trove Collections – How Much Data Can They Hold?",
+	"created" : 1390485802.0
+},
+{
+	"title" : "From Java to Scala: A New Paradigm",
+	"created" : 1390428704.0
+},
+{
+	"title" : "Practicing at the Cutting Edge: Learning and Unlearning about Java Performance",
+	"created" : 1390425879.0
+},
+{
+	"title" : "Builder Pattern Using Java 8",
+	"created" : 1390423526.0
+},
+{
+	"title" : "Why Singleton design pattern is still a good interview question to Java developers",
+	"created" : 1390415759.0
+},
+{
+	"title" : "Implementing Dapper in Java in under 10 minutes",
+	"created" : 1390326849.0
+},
+{
+	"title" : "Virtualized Java",
+	"created" : 1390314287.0
+},
+{
+	"title" : "The open-source Java community behind Vaadin",
+	"created" : 1390143527.0
+},
+{
+	"title" : "Java Primary Cause of 91 Percent of Attacks: Cisco",
+	"created" : 1390067696.0
+},
+{
+	"title" : "What Every Java Developer should know about String",
+	"created" : 1390058091.0
+},
+{
+	"title" : "Compiling Lambda Expressions: Scala vs. Java 8",
+	"created" : 1389976266.0
+},
+{
+	"title" : "DuctileJ: A Java compiler plugin that turns Java into a mostly dynamically typed language",
+	"created" : 1389956524.0
+},
+{
+	"title" : "Buggy or not, Java 8 will arrive on time",
+	"created" : 1389952085.0
+},
+{
+	"title" : "Learn Java with LearnStreet's Java for Dummies Online Course",
+	"created" : 1389925719.0
+},
+{
+	"title" : "Identicon Generation in Java",
+	"created" : 1389804775.0
+},
+{
+	"title" : "squirrel-foundation is a State Machine library, which provided a lightweight, easy use, type safe and programmable state machine implementation for Java",
+	"created" : 1389791460.0
+},
+{
+	"title" : "Java is still the King of Programming Languages!",
+	"created" : 1389762851.0
+},
+{
+	"title" : "Popular Java IDE",
+	"created" : 1389726304.0
+},
+{
+	"title" : "How to Setup Java Environment???",
+	"created" : 1389552706.0
+},
+{
+	"title" : "Java Programming Time Lapse - Breakout",
+	"created" : 1389552377.0
+},
+{
+	"title" : "A Taste of Functional Programming in Java 7, Java 8 and C# 4",
+	"created" : 1389551881.0
+},
+{
+	"title" : "Roozh: Jalali (Persian) date library for Java",
+	"created" : 1389531188.0
+},
+{
+	"title" : "An Overview About Java at a glance",
+	"created" : 1389465123.0
+},
+{
+	"title" : "Top 10 Books For Advanced Level Java Developers",
+	"created" : 1389385624.0
+},
+{
+	"title" : "Java skills are still golden for developers",
+	"created" : 1389385279.0
+},
+{
+	"title" : "Algebraic Data Types for Java",
+	"created" : 1389356092.0
+},
+{
+	"title" : "For a minute this question almost made me think about my java basics",
+	"created" : 1389338068.0
+},
+{
+	"title" : "Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)",
+	"created" : 1389321437.0
+},
+{
+	"title" : "The Most In-Demand Tech Skills: Why Java And The Classics Ruled 2013",
+	"created" : 1389306340.0
+},
+{
+	"title" : "DripStat – Java Performance Monitoring Service + Realtime MMO Game",
+	"created" : 1389283090.0
+},
+{
+	"title" : "Online Escape String Generator for C/C++, Javascript, Java, etc.",
+	"created" : 1389211964.0
+},
+{
+	"title" : "Adding Java and C++ to the MQTT benchmarks or: How I Learned to Stop Worrying and Love the Garbage Collector",
+	"created" : 1389207543.0
+},
+{
+	"title" : "Is a Java String really immutable?",
+	"created" : 1389181979.0
+},
+{
+	"title" : "Dijkstra on Haskell and Java",
+	"created" : 1389181243.0
+},
+{
+	"title" : "Performance implications of Exceptions in Java",
+	"created" : 1389138185.0
+},
+{
+	"title" : "Java bytecode hacking for fun and profit",
+	"created" : 1389091767.0
+},
+{
+	"title" : "Java vs C++ Discussion about Performance, JIT Compilers, Java Hotspot &amp; Native Compilers",
+	"created" : 1389075127.0
+},
+{
+	"title" : "DripStat: Java/Scala Performance Monitoring + Real Time MMO Game (Highly Addicting)",
+	"created" : 1389045387.0
+},
+{
+	"title" : "Functional Interface on Data Set #Java #CPP and #Clojure",
+	"created" : 1388989916.0
+},
+{
+	"title" : "java.lang.reflect.invocationtargetexception – How to handle Invocation Target Exception",
+	"created" : 1388950148.0
+},
+{
+	"title" : "AWS Java ClassLoader",
+	"created" : 1388949035.0
+},
+{
+	"title" : "Why do we need Type Inference from Java 7?",
+	"created" : 1388931524.0
+},
+{
+	"title" : "A Deeper Look at Primitive Integral Types in Java",
+	"created" : 1388518551.0
+},
+{
+	"title" : "Java: Using the specification pattern with JPA",
+	"created" : 1388494262.0
+},
+{
+	"title" : "Top 21 Java-based Content Management Systems",
+	"created" : 1388475943.0
+},
+{
+	"title" : "How to convert String to Number in java program",
+	"created" : 1388449091.0
+},
+{
+	"title" : "Centipede takes the \"suck\" out of writing small command-line apps in Java",
+	"created" : 1388356030.0
+},
+{
+	"title" : "Test Driven Development (TDD): Best Practices Using Java Examples",
+	"created" : 1388153770.0
+},
+{
+	"title" : "Java Programming Timelapse - Space Invaders",
+	"created" : 1388040184.0
+},
+{
+	"title" : "Dagger: ultra-light DI framework for Java and Android",
+	"created" : 1387999721.0
+},
+{
+	"title" : "Oracle Tunes Java's Internal String Representation",
+	"created" : 1387970857.0
+},
+{
+	"title" : "Java 8 proposed final draft",
+	"created" : 1387848927.0
+},
+{
+	"title" : "Unwrapping BladeRunnerJS (a Mimosa-like framework written in Java)",
+	"created" : 1387818426.0
+},
+{
+	"title" : "Polymorphism for Beginners (from perspective of a Java/C/Python dev)",
+	"created" : 1387758196.0
+},
+{
+	"title" : "How to synchronize HashMap in Java",
+	"created" : 1387713859.0
+},
+{
+	"title" : "Constructors in Java",
+	"created" : 1387710918.0
+},
+{
+	"title" : "Five Ways to Not Suck at Being a Java Freelancer",
+	"created" : 1387468251.0
+},
+{
+	"title" : "Design principles for Simple Binary Encoding, the ultra-low latency marshalling API in C++, Java and .NET (streaming, no copy, no allocation, compiler friendly)",
+	"created" : 1387297238.0
+},
+{
+	"title" : "String Handling in Java",
+	"created" : 1387273718.0
+},
+{
+	"title" : "Write concurrent Java tests with HavaRunner",
+	"created" : 1387210125.0
+},
+{
+	"title" : "WebSocket and Java",
+	"created" : 1387195737.0
+},
+{
+	"title" : "Scalability with Cloud Services: PHP, Ruby, Python, Java, .NET, Node, Go, etc",
+	"created" : 1387081893.0
+},
+{
+	"title" : "Tutorial Simple HTTP Request in Android / Java",
+	"created" : 1387062266.0
+},
+{
+	"title" : "Simple Binary Encoding, a new ultra-fast marshalling API in C++, Java and .NET",
+	"created" : 1387056885.0
+},
+{
+	"title" : "About PayPal's Node vs Java “fight”",
+	"created" : 1386956966.0
+},
+{
+	"title" : "How Class based Programming Sucks - ML is better than Java and C#",
+	"created" : 1386953585.0
+},
+{
+	"title" : "Java Advent Calendar: 10 Things that Will go Horribly Wrong on This Friday, Dec 13, 2013",
+	"created" : 1386925484.0
+},
+{
+	"title" : "OpenXava 4.9 released: Rapid Development for Java",
+	"created" : 1386852742.0
+},
+{
+	"title" : "Given, When, Then for testing in Java",
+	"created" : 1386832775.0
+},
+{
+	"title" : "5 Facts about the Java String",
+	"created" : 1386785914.0
+},
+{
+	"title" : "Groovy Console as a REPL for Java",
+	"created" : 1386721826.0
+},
+{
+	"title" : "Java 8: Lambdas, Default Methods &amp; Bulk Data",
+	"created" : 1386694609.0
+},
+{
+	"title" : "The upswing - How Java got its mojo back",
+	"created" : 1386523850.0
+},
+{
+	"title" : "Will Java 8 kill Scala?",
+	"created" : 1386325793.0
+},
+{
+	"title" : "Streams vs. Collections: What’s the difference in Java 8?",
+	"created" : 1386182995.0
+},
+{
+	"title" : "Does Scala == Effective Java?",
+	"created" : 1386121645.0
+},
+{
+	"title" : "I noticed that there wasn't a java wrapper for the coinbase REST api, so i made one.",
+	"created" : 1386107472.0
+},
+{
+	"title" : "10 Ceylon features that I wish Java had",
+	"created" : 1386091077.0
+},
+{
+	"title" : "Monadic Java, talk at Codemotion-Milan by Mario Fusco. Transcript at the bottom of the page",
+	"created" : 1386081374.0
+},
+{
+	"title" : "java interview",
+	"created" : 1386068568.0
+},
+{
+	"title" : "Awesome take on expressivity vs. verbosity in Scala and Java",
+	"created" : 1386068530.0
+},
+{
+	"title" : "Happy Advent! - A list of Advent calendars: Go, Perl 5, Perl 6, Java, Dancer, Future, Sys, Garage rock",
+	"created" : 1385964501.0
+},
+{
+	"title" : "Nice post on what lambdas will look like in java 8",
+	"created" : 1385922158.0
+},
+{
+	"title" : "Java Advent Calendar: (Part 1 of 3): Synopsis of articles &amp; videos on Performance tuning, JVM, GC in Java, Mechanical Sympathy, et al",
+	"created" : 1385895660.0
+},
+{
+	"title" : "Native Java Packaging with NetBeans 7.4",
+	"created" : 1385749081.0
+},
+{
+	"title" : ".NET Struct Performance (c#, c++, java and javascript microbenchmarks)",
+	"created" : 1385652818.0
+},
+{
+	"title" : "Crashing your machine with a single line of Java code",
+	"created" : 1385642396.0
+},
+{
+	"title" : "Exploit better the results of Pmd, Findbugs and CheckStyle.",
+	"created" : 1385594010.0
+},
+{
+	"title" : "Java EE examples &amp; tests now a top-level org on GitHub",
+	"created" : 1385588926.0
+},
+{
+	"title" : "Java Based Frameworks Perform Faster than .NET, Rails or Python! (Findings)",
+	"created" : 1385557474.0
+},
+{
+	"title" : "Automated tests for SOAP API in Java",
+	"created" : 1385548825.0
+},
+{
+	"title" : "Introducing Java type provider",
+	"created" : 1385400572.0
+},
+{
+	"title" : "\"Java is bad and you should feel bad\" - one redditor's admonition to another (x-Post from /r/startups/)",
+	"created" : 1385172107.0
+},
+{
+	"title" : "30+ ways to make REST calls in Node.js, PHP, Python, Rails, Obj-C, .NET, and Java / Android",
+	"created" : 1385085248.0
+},
+{
+	"title" : "Stacktraces in Java - friend or foe?",
+	"created" : 1385038175.0
+},
+{
+	"title" : "We Analyzed 30,000 GitHub Projects – Here Are The Top 100 Libraries in Java, JS and Ruby",
+	"created" : 1384991741.0
+},
+{
+	"title" : "BASE64 encoding with Java 8",
+	"created" : 1384974336.0
+},
+{
+	"title" : "Collecting data from Ruby,Java, and Python programmers",
+	"created" : 1384971032.0
+},
+{
+	"title" : "Java for Android and Other New Research",
+	"created" : 1384787332.0
+},
+{
+	"title" : "TIL Oracle changed the internal String representation in Java 7 Update 6 increasing the running time of the substring method from constant to N",
+	"created" : 1384781542.0
+},
+{
+	"title" : "Day 20: Stanford CoreNLP--Performing Sentiment Analysis of Twitter using Java",
+	"created" : 1384781333.0
+},
+{
+	"title" : "Method overloading in java",
+	"created" : 1384682382.0
+},
+{
+	"title" : "Java Language learning",
+	"created" : 1384677358.0
+},
+{
+	"title" : "\"Java Killer\" Ceylon creator: \"We think people are really going to love it\"",
+	"created" : 1384600990.0
+},
+{
+	"title" : "Surprise! Java is fastest for server-side Web apps",
+	"created" : 1384600479.0
+},
+{
+	"title" : "Nightmare with PKIX path building failed, working with dummy SSL in java using Axis2",
+	"created" : 1384554391.0
+},
+{
+	"title" : "Java 8, Lambda Expressions and the Psychology of the Masters of the Universe (devoxx style)",
+	"created" : 1384552525.0
+},
+{
+	"title" : "Juergen Hoeller (Co-founder of the Spring Framework) Spring eXchange Keynote: Spring 4 on Java 8 [Video] [X-post /r/java]",
+	"created" : 1384526708.0
+},
+{
+	"title" : "Devoxx 2013 – Takeaways From The Java Keynote",
+	"created" : 1384507421.0
+},
+{
+	"title" : "Repository of Java 8 source code examples for learning",
+	"created" : 1384374570.0
+},
+{
+	"title" : "Save-and-Refresh With Java Web Projects",
+	"created" : 1384371610.0
+},
+{
+	"title" : "Just wrote this easy to understand tutorial on writing a Java NIO asynchronous server/client. Source code included.",
+	"created" : 1384304656.0
+},
+{
+	"title" : "Oracle Java SE 7 Certifications 1Z0-803 / 1Z0-804 demystified",
+	"created" : 1384291661.0
+},
+{
+	"title" : "Day 13: Dropwizard--The Awesome Java REST Server Stack",
+	"created" : 1384234522.0
+},
+{
+	"title" : "Android gets official Java 7 support",
+	"created" : 1384172640.0
+},
+{
+	"title" : "Day 12: OpenCV--Face Detection for Java Developers",
+	"created" : 1384156075.0
+},
+{
+	"title" : "Scala is Not Java Glue",
+	"created" : 1384094569.0
+},
+{
+	"title" : "[Phoronix] GCC Looks To Turn Off Java, Replace With Go Or ADA",
+	"created" : 1384064370.0
+},
+{
+	"title" : "Using R and other non-Java languages in MapReduce and Hive",
+	"created" : 1383952075.0
+},
+{
+	"title" : "Java had Python style for/else loops all along",
+	"created" : 1383786819.0
+},
+{
+	"title" : "Why impatient Java-based agilists should study Smalltalk",
+	"created" : 1383739170.0
+},
+{
+	"title" : "Randomly Generated Input Stream [Java]",
+	"created" : 1383690446.0
+},
+{
+	"title" : "Announcing EAXY: Making XML easier in Java",
+	"created" : 1383667481.0
+},
+{
+	"title" : "A handy hack for getting around Java type erasure [In certain cases]",
+	"created" : 1383564145.0
+},
+{
+	"title" : "Java Refactoring Using A Functional Interface And Generics",
+	"created" : 1383437886.0
+},
+{
+	"title" : "Does Java 8 Still Need LINQ? Or is it Better than LINQ?",
+	"created" : 1383391895.0
+},
+{
+	"title" : "learn java ,php&amp; mysql with best concepts and examples",
+	"created" : 1383326894.0
+},
+{
+	"title" : "C/C++ and Java :Bubble Sort",
+	"created" : 1383324448.0
+},
+{
+	"title" : "Watch out for these 10 common pitfalls of experienced Java developers &amp; architects",
+	"created" : 1383296075.0
+},
+{
+	"title" : "CodeMoo: a playful way to learn Java, in the browser",
+	"created" : 1383201020.0
+},
+{
+	"title" : "Java Programming Basics - 37 lectures",
+	"created" : 1383178819.0
+},
+{
+	"title" : "Beautiful design concept explained via Java ThreadLocal source code",
+	"created" : 1383052888.0
+},
+{
+	"title" : "Java Program Flow Visualizer",
+	"created" : 1382983078.0
+},
+{
+	"title" : "Tomcat in Eclipse, set Java Version",
+	"created" : 1382967086.0
+},
+{
+	"title" : "Set Java Version in Maven",
+	"created" : 1382961638.0
+},
+{
+	"title" : "Java 7 NIO.2 Series",
+	"created" : 1382907813.0
+},
+{
+	"title" : "Spring method injection with Java Configuration",
+	"created" : 1382881852.0
+},
+{
+	"title" : "Java 8 is Revolutionary, Java is back",
+	"created" : 1382789252.0
+},
+{
+	"title" : "Advanced Java Tutorial #6 - Handling of Command Line Arguments",
+	"created" : 1382770835.0
+},
+{
+	"title" : "Open Source Java/XML Neural Net Suite",
+	"created" : 1382722752.0
+},
+{
+	"title" : "TIL In java the \"&amp;&amp;\" operator will short-circuit on logical expressions, while the \"&amp;\" operator will not.",
+	"created" : 1382692983.0
+},
+{
+	"title" : "\"Why Can't Johnny Read Urls?\" Request for comments on a URL library in Java",
+	"created" : 1382545203.0
+},
+{
+	"title" : "Java forever! 12 keys to Java's enduring dominance | Application Development",
+	"created" : 1382359274.0
+},
+{
+	"title" : "Advanced Java Tutorial #5 - Scripting in Java",
+	"created" : 1382266743.0
+},
+{
+	"title" : "Advanced Java Tutorial #3 - Text To Speech",
+	"created" : 1382184769.0
+},
+{
+	"title" : "The most popular Java EE 7 technologies according to ZEEF users",
+	"created" : 1382027666.0
+},
+{
+	"title" : "“Outer Contour Tracing” using square-tracing algorithm for binary image, Java Implementation",
+	"created" : 1382024879.0
+},
+{
+	"title" : "Semantically diffing Java code",
+	"created" : 1382017270.0
+},
+{
+	"title" : "To all Swedes! Game programming from scratch in Java for newbies in Swedish!",
+	"created" : 1382009077.0
+},
+{
+	"title" : "Blurring Gray Scale image using 3X3 averaging mask filters, Java Implementation",
+	"created" : 1381948174.0
+},
+{
+	"title" : "Is it a good idea to dual-license a Java database middleware software?",
+	"created" : 1381928831.0
+},
+{
+	"title" : "java a bad choice for foss?",
+	"created" : 1381878643.0
+},
+{
+	"title" : "Java becoming the most popular programming language world?",
+	"created" : 1381871344.0
+},
+{
+	"title" : "Awesome Introduction : Using Eclipse IDE for Java Development",
+	"created" : 1381858338.0
+},
+{
+	"title" : "New to java, can someone help me with something? (Question and code in comments) Thanks guys",
+	"created" : 1381786805.0
+},
+{
+	"title" : "Hitting 400M TPS between threads in Java using a lock free queue",
+	"created" : 1381738095.0
+},
+{
+	"title" : "A Java geek » getCaller() hack",
+	"created" : 1381681725.0
+},
+{
+	"title" : "See if you can beat this Java test. Bonus points if you get IP address of java machine.",
+	"created" : 1381463630.0
+},
+{
+	"title" : "Java, PHP, Cobol and Visual Basic voted least popular / most disliked languages amongst developers. Python and C come out on top.",
+	"created" : 1381426986.0
+},
+{
+	"title" : "If Java Is Dying, It Sure Looks Awfully Healthy",
+	"created" : 1381353973.0
+},
+{
+	"title" : "understanding these java problems!",
+	"created" : 1381277443.0
+},
+{
+	"title" : "Free MongoDB course for Java Devs starts today (Node.js course starts in a couple weeks). Course is run by 10gen directly.",
+	"created" : 1381190082.0
+},
+{
+	"title" : "A Java geek » A dive into the Builder pattern",
+	"created" : 1381068015.0
+},
+{
+	"title" : "10 Reasons Why Java Now Rocks More Than Ever: Part 1 – The Java Compiler",
+	"created" : 1380871403.0
+},
+{
+	"title" : "Winning the Ride-Sharing Startup Battle with Personalization - Java sample code",
+	"created" : 1380660396.0
+},
+{
+	"title" : "How To Write Your Own Java/Scala Debugger",
+	"created" : 1380628428.0
+},
+{
+	"title" : "OpenXava 4.8.1 released: Fast Development for Enterprise Java",
+	"created" : 1380623041.0
+},
+{
+	"title" : "On operator overloading in Java, Scala, Xtend and Ceylon",
+	"created" : 1380525516.0
+},
+{
+	"title" : "JSF Tutorials, JSP Tutorials, J2EE Tutorials, Java Server Faces Tutorials, Hibernate Tutorials, XML and MySQL Tutorials",
+	"created" : 1380363429.0
+},
+{
+	"title" : "Java to Scala converter",
+	"created" : 1380300227.0
+},
+{
+	"title" : "A short rant at wired - the second coming of java",
+	"created" : 1380295031.0
+},
+{
+	"title" : "The Ninja Web Framework Seems to Aim for Bringing the Play Framework back to Java",
+	"created" : 1380284721.0
+},
+{
+	"title" : "Hunting Memory Leaks in Java",
+	"created" : 1380209206.0
+},
+{
+	"title" : "Java Forever And Ever Movie (JAVA vs Windows .Net)",
+	"created" : 1380145389.0
+},
+{
+	"title" : "The Second Coming of Java: Clinton-Era Relic Returns to Rule Web",
+	"created" : 1380136015.0
+},
+{
+	"title" : "Java8 The Good Parts @ JavaOne 2013",
+	"created" : 1380122925.0
+},
+{
+	"title" : "Vice president of engineering at Twitter talks about Java and the jvm",
+	"created" : 1380116149.0
+},
+{
+	"title" : "Chrome to Drop Support for NPAPI Plugins Including Java, Silverlight, and Unity",
+	"created" : 1380050470.0
+},
+{
+	"title" : "GPU Acceleration Coming to Java - Sorting run times up to 48x faster.",
+	"created" : 1379975647.0
+},
+{
+	"title" : "Parallelizing Python and Java",
+	"created" : 1379777524.0
+},
+{
+	"title" : "Hello World Example using JAVA and Spring Framework MVC 3.1",
+	"created" : 1379578587.0
+},
+{
+	"title" : "Multi-tenant Java 8 VM in beta",
+	"created" : 1379576480.0
+},
+{
+	"title" : "Yeppp! - Open-source SIMD-accelerated math library for C/C++/C#/Java/FORTRAN",
+	"created" : 1379563500.0
+},
+{
+	"title" : "Introduction to Java multitenancy in IBM J9 VM for Java 8",
+	"created" : 1379541270.0
+},
+{
+	"title" : "Video: Coding WebInspect (.NET/CLR) in real-time to Inject Fortify Eclipse Plugin Views (Java/JVM)",
+	"created" : 1379512206.0
+},
+{
+	"title" : "Java Persistence Performance: Optimizing Java Serialization",
+	"created" : 1379409598.0
+},
+{
+	"title" : "Java libs hard to live without",
+	"created" : 1379245056.0
+},
+{
+	"title" : "The Hidden Java EE 7 Gem - Lambdas With JDK 7",
+	"created" : 1379102021.0
+},
+{
+	"title" : "\"I'm using Java on the server, I don't need to upgrade my JRE and JEE stack.\" -- Uh, yea you do.",
+	"created" : 1379023846.0
+},
+{
+	"title" : "Security of Java takes a dangerous turn for the worse, experts say",
+	"created" : 1378972284.0
+},
+{
+	"title" : "Java 8 Developer Preview Released",
+	"created" : 1378919069.0
+},
+{
+	"title" : "Top 10 Books for Advanced Level Java Programmers",
+	"created" : 1378916556.0
+},
+{
+	"title" : "Java to Scala cheat-sheet",
+	"created" : 1378901166.0
+},
+{
+	"title" : "First Java Homework Assignment: He gave me an A. (Sorta-NSFW)",
+	"created" : 1378296849.0
+},
+{
+	"title" : "Google's Go Could Replace Java",
+	"created" : 1378246813.0
+},
+{
+	"title" : "The Subtle Bug With Java's Binary Search and Mergesort That Wasn't Fixed Until 2006",
+	"created" : 1378239399.0
+},
+{
+	"title" : "Mary Had a Little Lambda (Java 8)",
+	"created" : 1378032966.0
+},
+{
+	"title" : "Users advised to dump Java",
+	"created" : 1378024653.0
+},
+{
+	"title" : "Everything About Java 8",
+	"created" : 1377950155.0
+},
+{
+	"title" : "False Sharing in Java",
+	"created" : 1377801588.0
+},
+{
+	"title" : "Know Thy Java Object Memory Layout",
+	"created" : 1377694780.0
+},
+{
+	"title" : "Seven Reasons You Should Use Java Again - Programming",
+	"created" : 1377644027.0
+},
+{
+	"title" : "Java Reclaims #1 Programming Language Spot",
+	"created" : 1377615785.0
+},
+{
+	"title" : "Lock-Based vs Lock-Free Concurrent Performance Comparison in Java",
+	"created" : 1377592111.0
+},
+{
+	"title" : "Automated acceptance testing with Cucumber for .NET and JAVA",
+	"created" : 1377528423.0
+},
+{
+	"title" : "String.intern in Java 6, 7 and 8 - string pooling",
+	"created" : 1377186429.0
+},
+{
+	"title" : "IT skills: Java, ASP and agile rise but C and SQL wane",
+	"created" : 1377092834.0
+},
+{
+	"title" : "Hadoop vs Java Batch Processing JSR 352",
+	"created" : 1377082585.0
+},
+{
+	"title" : "caxap: A macro system on top of Java",
+	"created" : 1377063852.0
+},
+{
+	"title" : "5 Things You Didn’t Know About Synchronization in Java and Scala",
+	"created" : 1376596549.0
+},
+{
+	"title" : "Why does this Java program terminate despite that appears that it shouldn't (and didn't)? - Stack Overflow",
+	"created" : 1376581784.0
+},
+{
+	"title" : "The MongoDB Java Driver 3.0",
+	"created" : 1376411007.0
+},
+{
+	"title" : "Java 8 Lambda Expressions Tutorial",
+	"created" : 1376356457.0
+},
+{
+	"title" : "Weaknesses in Java SecureRandom (e.g. Android bitcoin wallets)",
+	"created" : 1376248643.0
+},
+{
+	"title" : "There's Java In Your Tweets",
+	"created" : 1375896102.0
+},
+{
+	"title" : "Java vs C#: the fight begins! Say, whiche do you think is better? Wiche is not so good? And wiche of them do you think will win this battle?",
+	"created" : 1375874491.0
+},
+{
+	"title" : "Compact collections for primitive types in Java (VariableIntArray, IntHashMap, IntPairHashMap, SparseBitArray)",
+	"created" : 1375864346.0
+},
+{
+	"title" : "Getting started with CQEngine: LINQ for Java, Only Faster",
+	"created" : 1375782102.0
+},
+{
+	"title" : "Nightcode - Java IDE that support Clojure and libgdx for Android and Web",
+	"created" : 1375590062.0
+},
+{
+	"title" : "Using Java in low latency environments",
+	"created" : 1375571534.0
+},
+{
+	"title" : "Web scraping/automation in Java made easy",
+	"created" : 1375386832.0
+},
+{
+	"title" : "sviperll-task: Java multitask library",
+	"created" : 1375199419.0
+},
+{
+	"title" : "Simple REST Web Service in Java with Spring and CXF",
+	"created" : 1375152758.0
+},
+{
+	"title" : "Emulating Multiple Inheritance in Java using ‘Program To Interface’ Design Principle, Object Composition and and Method Delegation",
+	"created" : 1374875714.0
+},
+{
+	"title" : "How to convert XML to Java object and vice versa in runtime?",
+	"created" : 1374801209.0
+},
+{
+	"title" : "Love and hate for Java 8",
+	"created" : 1374791117.0
+},
+{
+	"title" : "Ada for the C++ or Java Developer",
+	"created" : 1374590472.0
+},
+{
+	"title" : "Lambda Expressions Backported to Java 7, 6 and 5",
+	"created" : 1374587002.0
+},
+{
+	"title" : "Cassandra – working with counters using the Datastax Java API",
+	"created" : 1374389040.0
+},
+{
+	"title" : "Don't Throw Away Your Old Java Web Framework: the Short Single Page History of Twitter",
+	"created" : 1374246993.0
+},
+{
+	"title" : "Java Generics Quirks",
+	"created" : 1374197829.0
+},
+{
+	"title" : "Garbage Collection in Java (Part 4)",
+	"created" : 1374187238.0
+},
+{
+	"title" : "The Java Modularity Story",
+	"created" : 1374137109.0
+},
+{
+	"title" : "Computer science professor uses Java Software to unmask J.K. Rowling as author of \"The Cuckoo's Calling\"",
+	"created" : 1373975887.0
+},
+{
+	"title" : "C++ const vs Java final - A Discussion",
+	"created" : 1373903623.0
+},
+{
+	"title" : "Cassandra – bulk insert with bound statements using the Datastax Java API",
+	"created" : 1373877072.0
+},
+{
+	"title" : "Classic WTF: Java is Slow!",
+	"created" : 1373829477.0
+},
+{
+	"title" : "Java EE 8 wish list",
+	"created" : 1373801635.0
+},
+{
+	"title" : "How quickly will Java software vendors migrate to Java 8, given the presence of Lambda Expressions? [poll]",
+	"created" : 1373801573.0
+},
+{
+	"title" : "Java EE 7 delivers major Expression Language enhancements",
+	"created" : 1373713739.0
+},
+{
+	"title" : "From Groovy to Java 8",
+	"created" : 1373712454.0
+},
+{
+	"title" : "Node.js vs. Java EE/C/C++/.NET",
+	"created" : 1373579991.0
+},
+{
+	"title" : "How To Program Java Effectively",
+	"created" : 1373508917.0
+},
+{
+	"title" : "LINQ has been quite a successful, but also controversial addition to the.NET ecosystem. Many people are looking for a comparable solution in the Java world.",
+	"created" : 1373404935.0
+},
+{
+	"title" : "ZeroMQ – communicate from PHP to Java with multithreaded request-reply",
+	"created" : 1373397701.0
+},
+{
+	"title" : "Show Reddit: A minimalistic SQL API for Java aimed to resemble the code to your original SQL code",
+	"created" : 1373378145.0
+},
+{
+	"title" : "Why does java BigInteger has TEN and ONE as constants?",
+	"created" : 1373365142.0
+},
+{
+	"title" : "Well, that's one hell of a texture error... [JAVA] Oh, yeah, this also moves forever too... its a migraine on steroids.",
+	"created" : 1373350200.0
+},
+{
+	"title" : "HSAIL-based GPU offload: the Quest for Java Performance Begins",
+	"created" : 1373296482.0
+},
+{
+	"title" : "GTUG - Using the Google Collections Library for Java (1 of 2)",
+	"created" : 1373278221.0
+},
+{
+	"title" : "Wicked Charts: A Java Wrapper for the Highcharts Javascript Charting Library",
+	"created" : 1373231739.0
+},
+{
+	"title" : "The Heroes of Java: Kevlin Henney",
+	"created" : 1373025629.0
+},
+{
+	"title" : "Elastic Search – Geo distance search with sorted and faceted results in Java",
+	"created" : 1373006208.0
+},
+{
+	"title" : "Developers expect Java EE 7 to become predominant within 2-3 Years",
+	"created" : 1372855246.0
+},
+{
+	"title" : "EL 3; Java gets embedded dynamic language featuring eval on plain Java objects and lambdas for Java 7",
+	"created" : 1372808319.0
+},
+{
+	"title" : "[X-post from /r/androiddev] Firebase Announces Realtime Data Synchronization Support for Java and Android",
+	"created" : 1372791184.0
+},
+{
+	"title" : "My First Java Library - Java Stocks",
+	"created" : 1372718678.0
+},
+{
+	"title" : "File handling in Python, Java and C",
+	"created" : 1372594463.0
+},
+{
+	"title" : "Java: the bane of computer science freshmen",
+	"created" : 1372391617.0
+},
+{
+	"title" : "The Rise and Fall and Rise of Java",
+	"created" : 1372337407.0
+},
+{
+	"title" : "Java Garbage Collection Distilled",
+	"created" : 1372330177.0
+},
+{
+	"title" : "Handling feature flags in a Java EE application using Togglz",
+	"created" : 1372319644.0
+},
+{
+	"title" : "Chart js integration with Java",
+	"created" : 1372006151.0
+},
+{
+	"title" : "Java EE 7 - Introduction to Batch (JSR 352)",
+	"created" : 1371929853.0
+},
+{
+	"title" : "Bringing Closures to Java 5, 6 and 7 - No need to wait for Java 8 to come to your company!",
+	"created" : 1371561383.0
+},
+{
+	"title" : "Thoughts about subject/observer, publisher/subscriber, and self types in Java",
+	"created" : 1371508763.0
+},
+{
+	"title" : "Today's Java with Cay Horstmann",
+	"created" : 1371419269.0
+},
+{
+	"title" : "Cay Horstmann on the current state of Java",
+	"created" : 1371234906.0
+},
+{
+	"title" : "Java 9's javac will drop support for Java 1.4 and older source code.",
+	"created" : 1371196699.0
+},
+{
+	"title" : "Adam Bien's presentation on infoShare 2013 conference in Gdansk, Poland on good JavaEE practices [x-post /r/java]",
+	"created" : 1371159112.0
+},
+{
+	"title" : "ActiveJsonEntity: Bridging the gap between Ruby and Java with Reflection",
+	"created" : 1371151826.0
+},
+{
+	"title" : "Deploy Java Apps With Docker = Awesome",
+	"created" : 1371129810.0
+},
+{
+	"title" : "Handling and avoiding \"!=null\" Statements in Java",
+	"created" : 1371118947.0
+},
+{
+	"title" : "Java EE 7 officially launches, bringing HTML5 and WebSocket support",
+	"created" : 1371077721.0
+},
+{
+	"title" : "Guava - simple recipes to make your Java code cleaner",
+	"created" : 1370988039.0
+},
+{
+	"title" : "HLearn implements more with 6 trivial lines of Haskell than Weka implements with over 100 complex lines of Java",
+	"created" : 1370976765.0
+},
+{
+	"title" : "Why Java Is Still Relevant",
+	"created" : 1370973727.0
+},
+{
+	"title" : "Multiplayer Java Applet game help",
+	"created" : 1370958642.0
+},
+{
+	"title" : "Java spec co-author admits inspiration from monads",
+	"created" : 1370890731.0
+},
+{
+	"title" : "Java visualizer (based on Online Python Tutor)",
+	"created" : 1370802673.0
+},
+{
+	"title" : "Facebook unveils Java based Presto engine for querying 250 PB data warehouse",
+	"created" : 1370643559.0
+},
+{
+	"title" : "The norwegian Java conference is back with a new geeky promo video. First teaser is out now. Javapocalypse!",
+	"created" : 1370621172.0
+},
+{
+	"title" : "Code-driven (no-annotations) ORM for Java",
+	"created" : 1370617752.0
+},
+{
+	"title" : "Asynchronous Servlet and Java EE Concurrency Utilities",
+	"created" : 1370591309.0
+},
+{
+	"title" : "Little known Java feature: Joint union in type parameter",
+	"created" : 1370479651.0
+},
+{
+	"title" : "Long Live Java Mission Control!",
+	"created" : 1370461024.0
+},
+{
+	"title" : "Thinking in Scala: For Java Developers",
+	"created" : 1370382011.0
+},
+{
+	"title" : "Haskell's HLearn library cross-validates more than 400x faster than Java's Weka library due to new monoid based algorithm",
+	"created" : 1370277075.0
+},
+{
+	"title" : "MongoDB Java Driver uses Math.random to decide whether to log Command Resultuses - Xpost from /r/java",
+	"created" : 1370062875.0
+},
+{
+	"title" : "Java on SPARC T5-8 Servers is FAST",
+	"created" : 1370033024.0
+},
+{
+	"title" : "Object Oriented Programming In Java",
+	"created" : 1370026173.0
+},
+{
+	"title" : "javacv - Java interface to OpenCV and more",
+	"created" : 1369966077.0
+},
+{
+	"title" : "OpenXava 4.7.1 released: It's a Java Framework, as Spring, that allows to develop business application easily, as Visual Basic.",
+	"created" : 1369824836.0
+},
+{
+	"title" : "Java 8 plugin that adds supports for persistent local variables (à lá C99 static)",
+	"created" : 1369727693.0
+},
+{
+	"title" : "Proof of Concept – LambdaSpec, how testing will look with Java8",
+	"created" : 1369672048.0
+},
+{
+	"title" : "Introducing JSR-352 - Batch Applications for the Java",
+	"created" : 1369525589.0
+},
+{
+	"title" : "Java EE 7 and JAX-RS 2.0",
+	"created" : 1369436740.0
+},
+{
+	"title" : "Java Surgery: What is Map/Reduce?",
+	"created" : 1369406342.0
+},
+{
+	"title" : "Java GC tuning for High Frequency Trading apps",
+	"created" : 1369372442.0
+},
+{
+	"title" : "X-ray vision to your production code: Takipi - Java debugging reinvented",
+	"created" : 1369227879.0
+},
+{
+	"title" : "Lambda Expressions (The Java Tutorials)",
+	"created" : 1368786126.0
+},
+{
+	"title" : "I had to compare parallel Game of Life implementations in Java, C and Haskell on 24 cores for school. I thought you might like.",
+	"created" : 1368730891.0
+},
+{
+	"title" : "Dart vs Java — the DeltaBlue Benchmark",
+	"created" : 1368200142.0
+},
+{
+	"title" : "About the rise of the builder pattern in Java: JDK 8's Calendar.Builder",
+	"created" : 1368095658.0
+},
+{
+	"title" : "Change in version numbering scheme of Java SE (7u14 becomes 7u40)",
+	"created" : 1368094777.0
+},
+{
+	"title" : "Java EE 7: JMS 2.0 With Glassfish v4",
+	"created" : 1368056402.0
+},
+{
+	"title" : "Java vs. PHP – the Essential Factor",
+	"created" : 1368019988.0
+},
+{
+	"title" : "A Java REPL (kind of)",
+	"created" : 1367981105.0
+},
+{
+	"title" : "What Properties in Java Should Have Looked Like",
+	"created" : 1367770180.0
+},
+{
+	"title" : "The Great Java Application Server Debate: JBoss AS7",
+	"created" : 1367534668.0
+},
+{
+	"title" : "Standard Java API for JSON",
+	"created" : 1367431641.0
+},
+{
+	"title" : "Java EE 7 Approved!",
+	"created" : 1367412059.0
+},
+{
+	"title" : "Should have written it in Java",
+	"created" : 1367391937.0
+},
+{
+	"title" : "Java Proxy Chaining - Aspect Oriented with Dynamic Proxy",
+	"created" : 1367371215.0
+},
+{
+	"title" : "Monitors – The Basic Idea of Java synchronization",
+	"created" : 1367333760.0
+},
+{
+	"title" : "Java EE 7 (JSR-342) is final!",
+	"created" : 1367331440.0
+},
+{
+	"title" : "JSF 2.2 Final Draft Approved; Java EE 7 Coming Soon",
+	"created" : 1367266215.0
+},
+{
+	"title" : "The Current Java vs Scala licence Topic (Oracle - Google - JVM)",
+	"created" : 1367188030.0
+},
+{
+	"title" : "JPQL: The Basics of the Java Persistence Query Language",
+	"created" : 1367098065.0
+},
+{
+	"title" : "5 Things a Java Developer Should Consider This Year",
+	"created" : 1367062110.0
+},
+{
+	"title" : "Gossip networks - java library",
+	"created" : 1366986853.0
+},
+{
+	"title" : "Box2d runtime performance: native, NaCl, asm.js, AS3, Java, Javascript, and Dart",
+	"created" : 1366932855.0
+},
+{
+	"title" : "Is Java the new C?",
+	"created" : 1366885864.0
+},
+{
+	"title" : "HTML5 development in Java EE and PHP projects (NetBeans Web Client)",
+	"created" : 1366817126.0
+},
+{
+	"title" : "Git Flow Comes to Java! :)",
+	"created" : 1366757291.0
+},
+{
+	"title" : "Java users beware: Exploit circulating for just-patched critical flaw",
+	"created" : 1366746446.0
+},
+{
+	"title" : "9 Fallacies of Java Performance updated",
+	"created" : 1366739730.0
+},
+{
+	"title" : "Visualizing Java Garbage Collection",
+	"created" : 1366476514.0
+},
+{
+	"title" : "Java 1.8 - New features, code examples, performance",
+	"created" : 1366470773.0
+},
+{
+	"title" : "Java 8 Schedule Update: Secure the train",
+	"created" : 1366306481.0
+},
+{
+	"title" : "While I was working on rewriting IKVM's dynamic binding support based on method handles I stumbled into a rather serious bug in the Oracle Java implementation. It allowed any code to overwrite public final fields.",
+	"created" : 1366248816.0
+},
+{
+	"title" : "Java 7 Update 21 Security Improvements in Detail",
+	"created" : 1366210909.0
+},
+{
+	"title" : "Exception Handling Best Practices - Java",
+	"created" : 1366186707.0
+},
+{
+	"title" : "[Video] Martin Thompson: Performance Testing Java Applications",
+	"created" : 1366121220.0
+},
+{
+	"title" : "MapDB: Java beyond heap",
+	"created" : 1365985014.0
+},
+{
+	"title" : "First 4 Java EE 7 JSRs to go final",
+	"created" : 1365670055.0
+},
+{
+	"title" : "Pure-Java ZeroMQ Client/Server Messaging Example (on Android)",
+	"created" : 1365510295.0
+},
+{
+	"title" : "My first Java project, 7 years ago in 10th grade of high school",
+	"created" : 1365371289.0
+},
+{
+	"title" : "What's new in Java EE 7's authentication support?",
+	"created" : 1365351120.0
+},
+{
+	"title" : "Java EE 7 and JAX-RS 2.0",
+	"created" : 1365197189.0
+},
+{
+	"title" : "Richard Warburton not happy with Java 8's Lambda API",
+	"created" : 1365148225.0
+},
+{
+	"title" : "Java Lambda Expressions vs Method References",
+	"created" : 1364942730.0
+},
+{
+	"title" : "Java EE, Saviours and Frozen Time...",
+	"created" : 1364941616.0
+},
+{
+	"title" : "How to teach a Java EE app new NoSQL tricks",
+	"created" : 1364889745.0
+},
+{
+	"title" : "Infinite Streams with Java Lambda Expressions and Default Methods",
+	"created" : 1364863111.0
+},
+{
+	"title" : "Execution of Groovy Scripts from Java - XmlSlurper and MarkupBuilder in Mapping Issues",
+	"created" : 1364852019.0
+},
+{
+	"title" : "Tool for debugging multi-threaded Java applications!",
+	"created" : 1364692531.0
+},
+{
+	"title" : "For programming class, the teacher asked us to make a \"Hello World\" in java.  Here's what I turned in...",
+	"created" : 1364519401.0
+},
+{
+	"title" : "Everything about Java 8",
+	"created" : 1364427614.0
+},
+{
+	"title" : "Why we need lambda expressions in Java - Part 1",
+	"created" : 1364415491.0
+},
+{
+	"title" : "Java Streams Preview vs .Net LINQ",
+	"created" : 1364407195.0
+},
+{
+	"title" : "I thought that \"Hello, world!\" example in Java can be improved.",
+	"created" : 1364406581.0
+},
+{
+	"title" : "Java 7 Bytecode Verifier: Huge backward step for the JVM",
+	"created" : 1364258189.0
+},
+{
+	"title" : "Hilarious analogy by 'mybringback' in a java tutorial",
+	"created" : 1364194069.0
+},
+{
+	"title" : "A refactoring exercise using Java 8 lambda expressions",
+	"created" : 1364057487.0
+},
+{
+	"title" : "Steve Yegge on C, C++, Lisp, Java, Perl, Ruby &amp; Python",
+	"created" : 1363963263.0
+},
+{
+	"title" : "NASA Java Coding Standard",
+	"created" : 1363952921.0
+},
+{
+	"title" : "Presenting r_linker.sh: An R.java-esque lookup generator for iOS! Also, my first OSS contribution!",
+	"created" : 1363837130.0
+},
+{
+	"title" : "Java Puzzle - Square root",
+	"created" : 1363833708.0
+},
+{
+	"title" : "Java 8 Starting to Find Its Way into .Net/Mono",
+	"created" : 1363722694.0
+},
+{
+	"title" : "How Clojure Babies Are Made: Compiling and Running a Java Program",
+	"created" : 1363266288.0
+},
+{
+	"title" : "jjs 0.1.1 Released! - jjs is JavaScript in Java. It is designed to be an easy-to-use library and REPL. You can use Java in your jjs program.",
+	"created" : 1363240457.0
+},
+{
+	"title" : "Instant Java provisioning with Vagrant and Puppet: Stash one click install",
+	"created" : 1363198949.0
+},
+{
+	"title" : "'3 reasons why I came back to Java and the JVM'",
+	"created" : 1363142617.0
+},
+{
+	"title" : "Introducing JBake - Java based open source static site/blog generator for developers.",
+	"created" : 1363097137.0
+},
+{
+	"title" : "3 Things Java Programmers Can Steal from Clojure",
+	"created" : 1363017805.0
+},
+{
+	"title" : "Maurice Naftalin's Lambda FAQ [Java 8]",
+	"created" : 1362993785.0
+},
+{
+	"title" : "Peterson’s locking algorithm in Java",
+	"created" : 1362937218.0
+},
+{
+	"title" : "Metrics - A Java library which gives insight of what your code do in production",
+	"created" : 1362921979.0
+},
+{
+	"title" : "Java to find its way onto iOS devices?",
+	"created" : 1362827483.0
+},
+{
+	"title" : "Parenj 1.3.2 Released! - Paren is a dialect of Lisp. It is designed to be an embedded language. (Very small overhead) You can use Java in your Paren program.",
+	"created" : 1362805644.0
+},
+{
+	"title" : "AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java [pdf]",
+	"created" : 1362732599.0
+},
+{
+	"title" : "Why Character array is better than String for Storing Password - Java",
+	"created" : 1362725842.0
+},
+{
+	"title" : "Merging Queues in Java using ArrayDeque (and Suzie Q)",
+	"created" : 1362664428.0
+},
+{
+	"title" : "4 Things Java Programmers Can Learn from Clojure (without learning Clojure)",
+	"created" : 1362639441.0
+},
+{
+	"title" : "Java Memory Model and optimisation.",
+	"created" : 1362432558.0
+},
+{
+	"title" : "Help pick the winner of the 4,096 bytes Java Game Contest. Source code included for most games.",
+	"created" : 1362422454.0
+},
+{
+	"title" : "Sql2o - Easy database query tool for java",
+	"created" : 1362177001.0
+},
+{
+	"title" : "Transparency and Community Participation in Java EE",
+	"created" : 1362086610.0
+},
+{
+	"title" : "\"Restricted Boltzmann Machine\" - Neural networking technique that powers things like Google voice search. Bonus: java implementation utilizing RBMs to recognize images of numbers with a 90% accuracy",
+	"created" : 1362072080.0
+},
+{
+	"title" : "Just released my Java commons (a-la Apache Commons or Guava) library. Check it out.",
+	"created" : 1362045332.0
+},
+{
+	"title" : "Most popular Java environments",
+	"created" : 1361993800.0
+},
+{
+	"title" : "Java EE 7 Survey Results",
+	"created" : 1361986098.0
+},
+{
+	"title" : "10 Object Oriented Design principles Java programmer should know ",
+	"created" : 1361882414.0
+},
+{
+	"title" : "Database Migrations And Java",
+	"created" : 1361803567.0
+},
+{
+	"title" : "New Online Java Compiler, Runner and Deployer for Console Apps and Applets.",
+	"created" : 1361794458.0
+},
+{
+	"title" : "After so many hacks, why won't Java just go away?",
+	"created" : 1361574242.0
+},
+{
+	"title" : "Java 7 and Google Cloud Endpoints",
+	"created" : 1361479874.0
+},
+{
+	"title" : "Rails, You Have Turned into Java. Congratulations!",
+	"created" : 1361390654.0
+},
+{
+	"title" : "Introducing jenv, a command line Java/JDKs Manager",
+	"created" : 1361302354.0
+},
+{
+	"title" : "The Heroes of Java: Marcus Hirt",
+	"created" : 1361287642.0
+},
+{
+	"title" : "Measuring Java method invocation costs",
+	"created" : 1361268707.0
+},
+{
+	"title" : "Have you recently visited mobile developer websites with your Mac? You might be infected by the same Java 0-day attack used against Facebook and Twitter employees",
+	"created" : 1361255089.0
+},
+{
+	"title" : "[XPost /r/LearnProgramming - Tips and tricks for Java development with Eclipse]",
+	"created" : 1361127659.0
+},
+{
+	"title" : "Basic Symmetric Encryption in Java",
+	"created" : 1360866240.0
+},
+{
+	"title" : "Java 8: From PermGen to Metaspace",
+	"created" : 1360708316.0
+},
+{
+	"title" : "Oracle to open-source Java SE embedded/OpenJDK for iOS and Android",
+	"created" : 1360622077.0
+},
+{
+	"title" : "Java reclaims No.1 language spot",
+	"created" : 1360619666.0
+},
+{
+	"title" : "The Groovy Conundrum [cross from /r/java]",
+	"created" : 1360610863.0
+},
+{
+	"title" : "A New Java Library for Amazing Productivity",
+	"created" : 1360603675.0
+},
+{
+	"title" : "The Power of Java 8 Lambdas with Generics",
+	"created" : 1360495070.0
+},
+{
+	"title" : "User revolt over Java bloatware - Stop filling our machines with rubbish, Larry",
+	"created" : 1360494692.0
+},
+{
+	"title" : "High-speed, multi-threaded virtual memory in Java",
+	"created" : 1360486733.0
+},
+{
+	"title" : "Hacking Liferay Java EE Enterprise Portal",
+	"created" : 1360331311.0
+},
+{
+	"title" : "RxJava Observables for java",
+	"created" : 1360182635.0
+},
+{
+	"title" : "Azzet - Java Asset Loading Library",
+	"created" : 1360181165.0
+},
+{
+	"title" : "Netflix Brings Reactive Extensions to Java",
+	"created" : 1360180827.0
+},
+{
+	"title" : "In one line of C or Java, how would you swap every pair of bits in a byte?",
+	"created" : 1360120086.0
+},
+{
+	"title" : "Java 8: The First Taste of Lambdas",
+	"created" : 1360101837.0
+},
+{
+	"title" : "Ocaml-Java 2 beta: important performance improvements, testers appreciated [X-Post from /r/ocaml]",
+	"created" : 1360056074.0
+},
+{
+	"title" : "Talk on how the team behind the Guardian website migrated from Java to Scala",
+	"created" : 1359752338.0
+},
+{
+	"title" : "Oracle Will Stop Providing Security Updates for Java 6 Next Month",
+	"created" : 1359674248.0
+},
+{
+	"title" : "JCache (JSR 107) drops out of Java EE 7 at the last moment",
+	"created" : 1359578477.0
+},
+{
+	"title" : "TarsosDSP - a simple, easy to use Java library for audio processing",
+	"created" : 1359553927.0
+},
+{
+	"title" : "I implemented the HACK 16bit ALU from \"The Elements of Computing Systems\" with only NAND gates in Java!",
+	"created" : 1359386296.0
+},
+{
+	"title" : "How to use Notepad++ as a nifty Java IDE (crossposted from /r/java/)",
+	"created" : 1359336473.0
+},
+{
+	"title" : "RoboVM - LLVM based ahead-of-time Java compiler, with iOS target",
+	"created" : 1359036074.0
+},
+{
+	"title" : "OpenJDK: Project Lambda - Lambda Expressions for the Java Programming Language",
+	"created" : 1359024840.0
+},
+{
+	"title" : "Functional Programming in Java is quite Approachable  [X-Post from r/functionalprogramming]",
+	"created" : 1359024602.0
+},
+{
+	"title" : "The default DataSource in Java EE 7",
+	"created" : 1358944988.0
+},
+{
+	"title" : "Apache Shiro, is it ready for Java EE 6? (a JSF2-Shiro Tutorial)",
+	"created" : 1358935103.0
+},
+{
+	"title" : "The Heroes of Java: Coleen Phillimore",
+	"created" : 1358788333.0
+},
+{
+	"title" : "Don’t Design for Reuse (More hilarity from the functional programming in Java is evil guy)",
+	"created" : 1358704215.0
+},
+{
+	"title" : "Why Functional Programming in Java is Dangerous",
+	"created" : 1358698107.0
+},
+{
+	"title" : "Little Known Secrets of Java: Better Constants ",
+	"created" : 1358630667.0
+},
+{
+	"title" : "Xamarin for Java Developers",
+	"created" : 1358569006.0
+},
+{
+	"title" : "$5,000 will buy you access to another, new critical Java vulnerability - Ars Technica",
+	"created" : 1358371218.0
+},
+{
+	"title" : "What if Java 8 dropped extends",
+	"created" : 1358298743.0
+},
+{
+	"title" : "Java Browser Exploit Fixed",
+	"created" : 1358181926.0
+},
+{
+	"title" : "Oracle release Java security fixes to recent security flaws",
+	"created" : 1358114025.0
+},
+{
+	"title" : "Straight from Joel's \"Things Not To Do\" series: A \"security expert\" says it's time to rewrite Java",
+	"created" : 1358017800.0
+},
+{
+	"title" : "Critical Java vulnerability made possible by earlier incomplete patch ",
+	"created" : 1357947775.0
+},
+{
+	"title" : "Genetic algorithms may not always be the most effective approach, but they sure can be fun. Wrote a Java program to find the ideal blackjack strategy.",
+	"created" : 1357866202.0
+},
+{
+	"title" : "Java 7 doesn't work with Chrome on OS X. This is an issue that's not really been publicized and I can't believe that it hasn't.",
+	"created" : 1357837039.0
+},
+{
+	"title" : "Critical Java zero-day bug is being “massively exploited in the wild”",
+	"created" : 1357834396.0
+},
+{
+	"title" : "OpenXava 4.6.1 released: Rapid Development of AJAX Java applications",
+	"created" : 1357813386.0
+},
+{
+	"title" : "What you doing java",
+	"created" : 1357782910.0
+},
+{
+	"title" : "JSR 335: Lambda Expressions for the Java Programming Language",
+	"created" : 1357774883.0
+},
+{
+	"title" : "Is Java Losing Its Mojo?",
+	"created" : 1357667819.0
+},
+{
+	"title" : "Java Experts on the State of Java",
+	"created" : 1357490186.0
+},
+{
+	"title" : "After a bad year, Java heads in the right direction",
+	"created" : 1357348223.0
+},
+{
+	"title" : "Java Persistence Performance: Got Cache?",
+	"created" : 1357340906.0
+},
+{
+	"title" : "A view of Scala from Java",
+	"created" : 1357286018.0
+},
+{
+	"title" : "Batch Applications in Java EE 7 - Understanding JSR 352 Concepts",
+	"created" : 1357176122.0
+},
+{
+	"title" : "NoSQLite4j - Light nosql db for java which is easy to install and implement",
+	"created" : 1357095925.0
+},
+{
+	"title" : "Getting started in java AI?",
+	"created" : 1357084120.0
+},
+{
+	"title" : "C# and Java programmers, let's fight!",
+	"created" : 1357033326.0
+},
+{
+	"title" : "Neuroph, java nueral network framework",
+	"created" : 1356937725.0
+},
+{
+	"title" : "Promises in Java 8 standard library, at last",
+	"created" : 1356755871.0
+},
+{
+	"title" : "MBassador: Light-weight, high-performance message bus for Java outperforms Google Guava.",
+	"created" : 1356451595.0
+},
+{
+	"title" : "[Java/Twitter4J] Download a Twitter Users' Tweets to a Text File",
+	"created" : 1356127864.0
+},
+{
+	"title" : "Java 8 vs. Xtend",
+	"created" : 1355929059.0
+},
+{
+	"title" : "What's new in Servlet 3.1 ? - Java EE 7 moving forward",
+	"created" : 1355928757.0
+},
+{
+	"title" : "Java EE 7 Community Survey Results!",
+	"created" : 1355574455.0
+},
+{
+	"title" : "YUICompressor rewritten from Java -&gt; Perl for 50% speed gain.",
+	"created" : 1355499937.0
+},
+{
+	"title" : "FastRuby: a Ruby to Java compiler",
+	"created" : 1355235783.0
+},
+{
+	"title" : "The Checker Framework: Custom pluggable types for Java",
+	"created" : 1355177057.0
+},
+{
+	"title" : "From XaaS to Java EE – Which damn cloud is right for me in 2012?",
+	"created" : 1354837565.0
+},
+{
+	"title" : "Concurrency Utilities for Java EE Early Draft (JSR 236) ",
+	"created" : 1354749211.0
+},
+{
+	"title" : "C &amp; Java are most popular languages. Objective-C, VB.NET, and MATLAB rapidly increasing.",
+	"created" : 1354510488.0
+},
+{
+	"title" : "Option \"types\" in Java 8.",
+	"created" : 1354494261.0
+},
+{
+	"title" : "Benchmarking Scala Against Java",
+	"created" : 1354297949.0
+},
+{
+	"title" : "Simple Logging Facade for Java (SLF4J) Hello World Example",
+	"created" : 1354204577.0
+},
+{
+	"title" : "Non-blocking I/O using Servlet 3.1: Ultra scalable applications using Java EE 7",
+	"created" : 1354199232.0
+},
+{
+	"title" : "Team MariaDB release LGPL C &amp; Java Client Library that is MySQL compatible",
+	"created" : 1354194843.0
+},
+{
+	"title" : "Comparing I/O in C with Java",
+	"created" : 1354132620.0
+},
+{
+	"title" : "Erjang is a virtual machine for Erlang, which runs on Java(tm).",
+	"created" : 1354072793.0
+},
+{
+	"title" : "New Project: Nashorn Oracle Wants To Embed JavaScript In Java Code",
+	"created" : 1353966543.0
+},
+{
+	"title" : "Google Previews Java 7 Support for App Engine",
+	"created" : 1353710087.0
+},
+{
+	"title" : "Learn Programming in Java, Python, Ruby or Javascript",
+	"created" : 1353701816.0
+},
+{
+	"title" : "Java's Atomic and volatile, under the hood on x86",
+	"created" : 1353206983.0
+},
+{
+	"title" : "3 bilion items in Java Map with 16 GB RAM",
+	"created" : 1352657624.0
+},
+{
+	"title" : "Reducing The Gap Between COBOL, Java, and C#",
+	"created" : 1352535413.0
+},
+{
+	"title" : "Java: Checked Exceptions, Revisited (or, a closer examination of a flawed mechanism)",
+	"created" : 1352378543.0
+}]}
