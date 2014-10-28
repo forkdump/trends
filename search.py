@@ -26,9 +26,14 @@ def getSubData(subreddit, keyword):
                     if(created < oldest and '\u200e' not in title and ':' not in title):
                             count += 1
                             oldest = created
-                            data_str += '{\n\t"title": "' + title + '",\n'
-                            data_str += '\t"score": "' + score + '",\n'
-                            data_str += '\t"created": ' + str(created) + "\n},\n"
+                            current = '{\n\t"title": "' + title + '",\n'
+                            current += '\t"score": "' + score + '",\n'
+                            current += '\t"created": ' + str(created) + "\n}"
+                            try:
+                                    json.loads(current)
+                                    data_str += current + ",\n"
+                            except ValueError, e:
+                                    print "fail!"
             print "Processed page " + str(page)
             if(data["data"]["after"]):
                     next_id = data["data"]["after"]
