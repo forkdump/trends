@@ -6,8 +6,8 @@ import search
 def process():
     subreddit = request.forms.get('subreddit')
     topic = request.forms.get('topic')
-    print subreddit, topic
-    return static_file("data.json", root="./data")
+    print "Requested: ", subreddit, topic
+    return static_file("programming-ruby.json", root="./data/")
     #return str(subreddit) + ", " + str(topics)
 
 @route('/')
