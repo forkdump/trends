@@ -34,7 +34,7 @@ function getData(filename, series, callback) {
     var series2 = [];
     var series3 = [];
     var series4 = [];
-    $.get(filename)
+    $.post("/process", {subreddit: "programming", topic: "java"})
         .done(function(data) {
             processData(data, series);
             callback();

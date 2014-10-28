@@ -4,9 +4,11 @@ import search
 
 @post('/process')
 def process():
-    subreddit = request.data.get('subreddit')
-    topics = request.data.get('topics')
-    return str(subreddit) + ", " + str(topics)
+    subreddit = request.forms.get('subreddit')
+    topic = request.forms.get('topic')
+    print subreddit, topic
+    return static_file("data.json", root="./data")
+    #return str(subreddit) + ", " + str(topics)
 
 @route('/')
 def root():
