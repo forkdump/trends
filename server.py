@@ -1,5 +1,5 @@
 # 'pip install bottle' before running this!
-from bottle import route, run, get, post, request, static_file
+from bottle import route, run, get, post, request, static_file, response
 import search
 
 @post('/process')
@@ -7,8 +7,9 @@ def process():
     subreddit = request.forms.get('subreddit')
     topic = request.forms.get('topic')
     print "Requested: ", subreddit, topic
-    return static_file("programming-ruby.json", root="./data/")
-    #return str(subreddit) + ", " + str(topics)
+    # return static_file("programming-ruby.json", root="./data/")
+    response.content_type = 'application/json'
+    return search.getSubData(subreddit, topic)
 
 @route('/')
 def root():

@@ -29,13 +29,9 @@ var processData = function(data, series) {
     }
 }
 
-function getData(filename, series, callback) {
-    var series1 = [];
-    var series2 = [];
-    var series3 = [];
-    var series4 = [];
-    console.log("sent!");
-    $.post("/process", {subreddit: "programming", topic: "java"})
+function getData(subreddit, topic, series, callback) {
+    console.log("Requested ", subreddit, topic);
+    $.post("/process", {subreddit: subreddit, topic: topic})
         .done(function(data) {
             console.log(data);
             processData(data, series);
@@ -51,10 +47,10 @@ function myData(callback) {
     var sqlSeries = [];
     var phpSeries = [];
     var rubySeries = [];
-    getData("/data/data.json", javaSeries, callback);
-    getData("/data/data.json", sqlSeries, callback);
-    getData("/data/data.json", phpSeries, callback);
-    getData("/data/data.json", rubySeries, callback);
+    getData("programming", "java", javaSeries, callback);
+    getData("programming", "sql", sqlSeries, callback);
+    getData("programming", "php", phpSeries, callback);
+    getData("programming", "ruby", rubySeries, callback);
     return [{
         key: "Java",
         values: javaSeries,

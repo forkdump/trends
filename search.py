@@ -32,13 +32,14 @@ def getSubData(subreddit, keyword):
             print "Processed page " + str(page)
             if(data["data"]["after"]):
                     next_id = data["data"]["after"]
-            time.sleep(1/15)
+            time.sleep(1/25)
             r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=" + keyword + "&sort=new&restrict_sr=on&limit=100&after=" + next_id, headers = user_agent)
     data_str = data_str[:-2]
     data_str += "]}"
     file = open(("./data/" + subreddit.encode('utf-8') + "-" + keyword.encode('utf-8') + ".json"), "w")
     file.write(data_str.encode('utf-8'))
     file.close()
+    return data_str.encode('utf-8')
 
     
 if __name__ == "__main__":
