@@ -20,7 +20,7 @@ def getSubData(subreddit, keyword):
                     created = str(data["data"]["children"][post_index]["data"]["created"])
                     score = str(data["data"]["children"][post_index]["data"]["score"])
                     data_str += '{\n\t"title": "' + post + '",\n'
-                    data_str += '{\n\n"score": "' + score + '",\n'
+                    data_str += '\n\t"score": "' + score + '",\n'
                     data_str += '\t"created": ' + created + "\n},\n"
             print "Processed page " + str(page)
             if(data["data"]["after"]):
