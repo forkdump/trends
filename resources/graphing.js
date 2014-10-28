@@ -34,10 +34,15 @@ function getData(filename, series, callback) {
     var series2 = [];
     var series3 = [];
     var series4 = [];
+    console.log("sent!");
     $.post("/process", {subreddit: "programming", topic: "java"})
         .done(function(data) {
+            console.log(data);
             processData(data, series);
             callback();
+        })
+        .fail(function(err) {
+            console.log("It faiiiiillleeeeeddd :(((");
         });
 }
 

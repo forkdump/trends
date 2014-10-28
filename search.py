@@ -20,10 +20,10 @@ def getSubData(subreddit, keyword):
             for post_index in range(0, len(data["data"]["children"]) - 1):
                     title = (data["data"]["children"][post_index]["data"]["title"])
                     title = unicodedata.normalize('NFKD', title).encode('ascii','ignore')
-                    title = title.replace('"',"'").replace('\n', '').replace('\t', '').replace(':', '')
+                    title = title.replace('"',"'").replace('\n', '').replace('\t', '') 
                     score = str(data["data"]["children"][post_index]["data"]["score"])
                     created = data["data"]["children"][post_index]["data"]["created"]
-                    if(created < oldest and '\u200e' not in title):
+                    if(created < oldest and '\u200e' not in title and ':' not in title):
                             count += 1
                             oldest = created
                             data_str += '{\n\t"title": "' + title + '",\n'
