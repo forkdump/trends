@@ -1,3 +1,4 @@
+var dataSeries = [];
 var processData = function(data, series) {
     var init = new Date(0);
     init.setUTCSeconds(data.data[data.data.length - 1].created);
@@ -47,10 +48,10 @@ function myData(callback) {
     var sqlSeries = [];
     var phpSeries = [];
     var rubySeries = [];
-    getData("programming", "java", javaSeries, callback);
-    getData("programming", "sql", sqlSeries, callback);
-    getData("programming", "php", phpSeries, callback);
-    getData("programming", "ruby", rubySeries, callback);
+    //getData("programming", "java", javaSeries, callback);
+    //getData("programming", "sql", sqlSeries, callback);
+    //getData("programming", "php", phpSeries, callback);
+    //getData("programming", "ruby", rubySeries, callback);
     return [{
         key: "Java",
         values: javaSeries,
@@ -68,6 +69,26 @@ function myData(callback) {
         values: rubySeries,
         color: "#000000"
     }];
+}
+function insertData(callback) {
+    var addedSeries = [];
+    getData(document.getElementById("subreddit").value, document.getElementById("keyword").value, addedSeries , callback);
+    var temp = {
+        key: document.getElementById("keyword").value,
+        values: addedSeries
+    };
+    dataSeries.push(temp);
+    return dataSeries;
+}
+function addKeyword(){
+    var chart = nv.models.lineChart();
+    d3.select("svg")
+        .datum(insertData(function() {
+            chart.update();
+        }))
+        .transition().duration(500).call(chart);
+
+
 }
 nv.addGraph(function() {
     var chart = nv.models.lineChart();
