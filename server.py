@@ -6,10 +6,12 @@ import search
 def process():
     subreddit = request.forms.get('subreddit')
     topic = request.forms.get('topic')
+    startDate = request.forms.get('startDate')
+    endDate = request.forms.get('endDate')
     print "Requested: ", subreddit, topic
     # return static_file("programming-ruby.json", root="./data/")
     response.content_type = 'application/json'
-    return search.getSubData(subreddit, topic)
+    return search.getSubData(subreddit, topic, startDate, endDate)
 
 @route('/')
 def root():
