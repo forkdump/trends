@@ -12,9 +12,11 @@ def getSubData(subreddit, keyword, startDate, endDate):
     count = 0
     oldest = 10000000000
     boo = False
-    r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=" + keyword + "&sort=new&restrict_sr=on&limit=100", headers = user_agent)
+    checker = ""
+    page = 1
+    r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=title:'" + keyword + "'+timestamp%3A" + startDate + ".." +  endDate +"&sort=new&restrict_sr=on&limit=100&syntax=cloudsearch", headers = user_agent)
     # Loop over the first 100 pages of results
-    for page in range(0,10):
+    while(True):
         search_json = r.text
         data = json.loads(search_json)
         #Loop over all the posts on a page
@@ -39,10 +41,18 @@ def getSubData(subreddit, keyword, startDate, endDate):
                         except ValueError, e:
                                 print "fail!"
         print "Processed page " + str(page)
+        page +=1
         if(data["data"]["after"]):
-                next_id = data["data"]["after"]
+            next_id = data["data"]["after"]
+            r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=title:'" + keyword + "'+timestamp%3A" + startDate + ".." +  endDate +"&sort=new&restrict_sr=on&limit=100&syntax=cloudsearch&after=" +next_id, headers = user_agent)
+        else:
+            endDate = str(int(created))
+            if(checker == endDate):
+                break
+            checker = endDate
+            r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=title:'" + keyword + "'+timestamp%3A" + startDate + ".." +  endDate +"&sort=new&restrict_sr=on&limit=100&syntax=cloudsearch", headers = user_agent)
         time.sleep(1/25)
-        r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=" + keyword + "&sort=new&restrict_sr=on&limit=100&after=" + next_id, headers = user_agent)
+        
         if(boo == True):
             print "true"
             break;

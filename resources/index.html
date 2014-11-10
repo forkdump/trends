@@ -1,25 +1,53 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
-    <title>My First Chart</title>
+    <title>Reddit Trends</title>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
     <link href="resources/nv.d3.min.css" rel="stylesheet" type="text/css">
-
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/additional.css" rel="stylesheet">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
     <script src="/resources/d3.v2.min.js"></script>
     <script src="/resources/nv.d3.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="/resources/graphing.js"></script>
-<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
-  <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <body>
-            Keyword: <input type="text" id="keyword">
-            Subreddit: <input type="text" id="subreddit">
-            Start date: <input type="text" id="datepicker">
-            End date: <input type="text" id="datepicker2">
-            <button  type="button" onclick="addKeyword()">Add to graph</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <button  type="button" onclick="changeMode()">Change mode</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            Mode: <span id='modeText'>Hits</span>
-      <svg style='height:600px'/>
+        <div class="container-fluid top-buffer">
+            <div class="row pagetitle">
+                <div class="col-md-12">
+                Reddit Trends
+            </div>
+            </div>
+            <div class="row top-buffer">
+                <div class="col-md-2 form-inline">
+                  Keyword: &nbsp;&nbsp; <input type="text" id="keyword" class="form-control">
+               </div>
+            <div class="col-md-2 form-inline">
+            Subreddit: &nbsp;&nbsp; <input type="text" id="subreddit" class="form-control">
+          </div>
 
-    </body>
+        <div class="col-md-2 form-inline">
+             Start date: &nbsp;&nbsp; <input type="text" id="datepicker" class="form-control">
+        </div>
+
+        <div class="col-md-2 form-inline">
+            End date: &nbsp;&nbsp; <input type="text" id="datepicker2" class="form-control">
+        </div>
+        <div class="col-md-1">
+            <button  type="button" onclick="addKeyword()"  class="btn btn-primary">Add to graph</button>
+        </div>
+        <div class="col-md-3 form-inline">
+            <button  type="button" onclick="changeMode()"  class="btn btn-primary">Change mode</button>&nbsp;&nbsp;&nbsp;&nbsp;
+           Current mode: <span id='modeText' class="mode">Hits</span>
+        </div>
+
+    </div>
+</div>
+
+<svg style='height:600px'/>
+
+</body>
 </html>

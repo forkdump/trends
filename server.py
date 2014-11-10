@@ -1,6 +1,6 @@
 # 'pip install bottle' before running this!
 from bottle import route, run, get, post, request, static_file, response
-import search
+import search, json, os
 
 @post('/process')
 def process():
@@ -11,6 +11,8 @@ def process():
     print "Requested: ", subreddit, topic
     # return static_file("programming-ruby.json", root="./data/")
     response.content_type = 'application/json'
+    if(os.path.exists('data/' + subreddit + '-' + topic + '.json')):
+        return static_file(subreddit + '-' + topic + '.json', root='./data')
     return search.getSubData(subreddit, topic, startDate, endDate)
 
 @route('/')
@@ -21,6 +23,14 @@ def root():
 @route('/resources/<filename>')
 def server_static(filename):
         return static_file(filename, root='./resources')
+
+@route('/css/<filename>')
+def server_static(filename):
+        return static_file(filename, root='./css')
+
+@route('/js/<filename>')
+def server_static(filename):
+        return static_file(filename, root='./js')
 
 @route('/data/<filename>')
 def server_static(filename):

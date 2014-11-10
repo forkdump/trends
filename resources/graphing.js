@@ -3,17 +3,49 @@ var noScoreSeries = [];
 var scoreSeries = [];
 var chart = nv.models.lineChart();
 var processData = function(data, series, series2) {
-    var init = new Date(0);
-    init.setUTCSeconds(data.data[data.data.length - 1].created);
-    var tempMonth = init.getMonth();
-    var tempYear = init.getFullYear();
-    var num = 0;
-    var score = 0;
-    for (var i = data.data.length - 1; i >= 0; i--) {
-        var d = new Date(0);
-        d.setUTCSeconds(data.data[i].created);
-        score += parseInt(data.data[i].score);
-        if (tempMonth != d.getMonth()) {
+    var response;
+    try {
+       response = JSON.parse(data);
+   }
+   catch(err) {
+
+   }
+   if(typeof response == 'object'){
+    data = response;
+}
+var init = new Date(0);
+init.setUTCSeconds(data.data[0].created);
+var tempMonth = init.getMonth();
+var tempYear = init.getFullYear();
+var num = 0;
+var score = 0;
+for (var i = 0; i < data.data.length; i++) {
+    var d = new Date(0);
+    d.setUTCSeconds(data.data[i].created);
+    score += parseInt(data.data[i].score);
+    if (tempMonth != d.getMonth()) {
+        var tempDay = new Date(0);
+        tempDay.setMonth(tempMonth, 1);
+        tempDay.setFullYear(tempYear);
+        series.push({
+            x: tempDay,
+            y: num
+        });
+        series2.push({
+            x: tempDay,
+            y: score
+        });
+        tempMonth--;
+        if (tempMonth == -1) {
+            tempMonth = 11;
+            tempYear--;
+        }
+        num = 0;
+        score = 0;
+    }
+    if (tempMonth == d.getMonth()) {
+        num += 1;
+        if(i == data.data.length -1){
             var tempDay = new Date(0);
             tempDay.setMonth(tempMonth, 1);
             tempDay.setFullYear(tempYear);
@@ -25,19 +57,10 @@ var processData = function(data, series, series2) {
                 x: tempDay,
                 y: score
             });
-            tempMonth++;
-            if (tempMonth == 12) {
-                tempMonth = 0;
-                tempYear++;
-            }
-            num = 0;
-            score = 0;
         }
-        if (tempMonth == d.getMonth()) {
-            num += 1;
-        }
-        
     }
+
+}
 }
 function modeChangeData(callback){
     if(mode == false){
@@ -63,7 +86,7 @@ function changeMode(){
         chart.update();
     }))
     .transition().duration(500).call(chart);
-        chart.xAxis.axisLabel("Date (m/y)").tickFormat(function(d) {
+    chart.xAxis.axisLabel("Date (m/y)").tickFormat(function(d) {
         return d3.time.format("%m/%y")(new Date(d))
     });
     chart.yAxis
@@ -111,7 +134,7 @@ function insertData(callback) {
     }
     var tempScoreSeries = [];
     var tempNoScoreSeries = [];
-    getData(document.getElementById("subreddit").value, document.getElementById("keyword").value, beginDate.getTime()/1000, endDate.getTime()/1000, tempNoScoreSeries, tempScoreSeries,callback);
+    getData(document.getElementById("subreddit").value, document.getElementById("keyword").value, Math.round(beginDate.getTime()/1000), Math.round(endDate.getTime()/1000), tempNoScoreSeries, tempScoreSeries,callback);
     var tempNoScore = {
         key: document.getElementById("keyword").value,
         values: tempNoScoreSeries
@@ -136,7 +159,7 @@ function addKeyword(){
         chart.update();
     }))
     .transition().duration(500).call(chart);
-        chart.xAxis.axisLabel("Date (m/y)").tickFormat(function(d) {
+    chart.xAxis.axisLabel("Date (m/y)").tickFormat(function(d) {
         return d3.time.format("%m/%y")(new Date(d))
     });
     chart.yAxis
