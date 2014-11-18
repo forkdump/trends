@@ -1,6 +1,7 @@
 var mode = false;
 var noScoreSeries = [];
 var scoreSeries = [];
+var descriptionData = [];
 var chart = nv.models.lineChart();
 var processData = function(data, series, series2) {
     var response;
@@ -13,6 +14,7 @@ var processData = function(data, series, series2) {
    if(typeof response == 'object'){
     data = response;
 }
+var otherInfo = [];
 var init = new Date(0);
 init.setUTCSeconds(data.data[0].created);
 var tempMonth = init.getMonth();
@@ -22,7 +24,6 @@ var score = 0;
 for (var i = 0; i < data.data.length; i++) {
     var d = new Date(0);
     d.setUTCSeconds(data.data[i].created);
-    score += parseInt(data.data[i].score);
     if (tempMonth != d.getMonth()) {
         var tempDay = new Date(0);
         tempDay.setMonth(tempMonth, 1);
@@ -35,6 +36,8 @@ for (var i = 0; i < data.data.length; i++) {
             x: tempDay,
             y: score
         });
+        descriptionData.push({date: tempDay, info: otherInfo});
+        otherInfo = [];
         tempMonth--;
         if (tempMonth == -1) {
             tempMonth = 11;
@@ -44,7 +47,9 @@ for (var i = 0; i < data.data.length; i++) {
         score = 0;
     }
     if (tempMonth == d.getMonth()) {
+        score += parseInt(data.data[i].score);
         num += 1;
+        otherInfo.push({date: data.data[i].created, permalink: data.data[i].permalink, title: data.data[i].title, score: data.data[i].score});
         if(i == data.data.length -1){
             var tempDay = new Date(0);
             tempDay.setMonth(tempMonth, 1);
@@ -61,6 +66,7 @@ for (var i = 0; i < data.data.length; i++) {
     }
 
 }
+
 }
 function modeChangeData(callback){
     if(mode == false){
@@ -171,6 +177,7 @@ function addKeyword(){
             chart.update();
         }
         );
+
 }
 function myData(callback) {
     return [];
@@ -180,4 +187,32 @@ $(function() {
 });
 $(function() {
     $( "#datepicker2" ).datepicker();
+});
+$(document).ready(function(){
+    $('#description').DataTable( 
+        {"columns":[
+        {"title": "Date"},
+        {"title": "Title"},
+        {"title": "Score"},
+        {"title": "Link"}
+        ],
+        "order": [[ 2, "desc" ]],
+        "filter" : false,
+        "bLengthChange": false,
+        "iDisplayLength": 10
+    } );
+});
+chart.lines.dispatch.on('elementClick', function(e) {
+ var pointOnChart = e.point.x;
+ $("#description").DataTable().clear();
+ for (var i = 0; i < descriptionData.length; i++) {
+    if(pointOnChart == descriptionData[i].date){
+     $(descriptionData[i].info).each(function(index, element){  
+            var d = new Date(0);
+         d.setUTCSeconds(element.date);
+         $('#description').DataTable().row.add([d.getMonth() + "/" + d.getDate() + "/" + d.getFullYear(),element.title,element.score,'<a href="'+ element.permalink + '">Link</a>']).draw();       
+     })
+ }
+}
+$('#description').DataTable().columns.adjust().draw();
 });

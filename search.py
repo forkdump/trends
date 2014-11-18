@@ -6,6 +6,7 @@ import unicodedata
 
 user_agent = {'User-agent': 'super cool UVA bot by /u/AD_Curry'}
 def getSubData(subreddit, keyword, startDate, endDate):
+    created = 0
     next_id = ""
     data_str = '{"data":['
     search_json = ""
@@ -26,6 +27,7 @@ def getSubData(subreddit, keyword, startDate, endDate):
                 title = title.replace('"',"'").replace('\n', '').replace('\t', '') 
                 score = str(data["data"]["children"][post_index]["data"]["score"])
                 created = data["data"]["children"][post_index]["data"]["created"]
+                link = "http://www.reddit.com" + data["data"]["children"][post_index]["data"]["permalink"]
                 if(float(created) < float(startDate)):
                     boo = True
                     break;
@@ -34,6 +36,7 @@ def getSubData(subreddit, keyword, startDate, endDate):
                         oldest = created
                         current = '{\n\t"title": "' + title + '",\n'
                         current += '\t"score": "' + score + '",\n'
+                        current += '\t"permalink": "' +  link + '",\n'
                         current += '\t"created": ' + str(created) + "\n}"
                         try:
                                 json.loads(current)
