@@ -179,6 +179,241 @@ function addKeyword(){
         );
 
 }
+// THIS JUST TEMPORARY UNTIL I FIGURE OUT HOW TO DO BETTER AT THE PRESENTS
+// THIS TRIPLES THE CODE PRETTY MUCH :(
+// BEGINNING OF BAD CODE
+function addMusic(){
+    d3.select("svg")
+    .datum(insertData1(function() {
+        chart.update();
+    }))
+    .transition().duration(500).call(chart);
+    chart.xAxis.axisLabel("Date (m/y)").tickFormat(function(d) {
+        return d3.time.format("%m/%y")(new Date(d))
+    });
+    chart.yAxis
+    .axisLabel("Y-axis Label")
+    .tickFormat(d3.format("d"));
+
+    nv.utils.windowResize(
+        function() {
+            chart.update();
+        }
+        );
+
+}
+function insertData1(callback) {
+    var tempScoreSeries = [];
+    var tempNoScoreSeries = [];
+    getData1(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 0, callback);
+    var tempNoScore = {
+        key: "One Direction",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "One Direction",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    tempScoreSeries = [];
+    tempNoScoreSeries = [];
+    getData1(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 1, callback);
+    var tempNoScore = {
+        key: "Wu Tang Clan",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "Wu Tang Clan",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    tempScoreSeries = [];
+    tempNoScoreSeries = [];
+    getData1(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 2, callback);
+    var tempNoScore = {
+        key: "Taylor Swift",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "Taylor Swift",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    if(mode == false){
+        return noScoreSeries;
+    }
+    else{
+        return scoreSeries;
+    }
+}
+function getData1(subreddit, topic, series, series2, number, callback) {
+        $.post("/music", {num: number})
+        .done(function(data) {
+            processData(data, series, series2);
+            callback();
+        })
+        .fail(function(err) {
+            console.log("It faiiiiillleeeeeddd :(((");
+        });
+}
+function addProgramming(){
+    d3.select("svg")
+    .datum(insertData2(function() {
+        chart.update();
+    }))
+    .transition().duration(500).call(chart);
+    chart.xAxis.axisLabel("Date (m/y)").tickFormat(function(d) {
+        return d3.time.format("%m/%y")(new Date(d))
+    });
+    chart.yAxis
+    .axisLabel("Y-axis Label")
+    .tickFormat(d3.format("d"));
+
+    nv.utils.windowResize(
+        function() {
+            chart.update();
+        }
+        );
+
+}
+function insertData2(callback) {
+    var tempScoreSeries = [];
+    var tempNoScoreSeries = [];
+    getData2(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 0, callback);
+    var tempNoScore = {
+        key: "C++",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "C++",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    tempScoreSeries = [];
+    tempNoScoreSeries = [];
+    getData2(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 1, callback);
+    var tempNoScore = {
+        key: "Java",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "Java",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    tempScoreSeries = [];
+    tempNoScoreSeries = [];
+    getData2(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 2, callback);
+    var tempNoScore = {
+        key: "Ruby",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "Ruby",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    if(mode == false){
+        return noScoreSeries;
+    }
+    else{
+        return scoreSeries;
+    }
+}
+function getData2(subreddit, topic, series, series2, number, callback) {
+        $.post("/programming", {num: number})
+        .done(function(data) {
+            processData(data, series, series2);
+            callback();
+        })
+        .fail(function(err) {
+            console.log("It faiiiiillleeeeeddd :(((");
+        });
+}
+function addMovies(){
+    d3.select("svg")
+    .datum(insertData3(function() {
+        chart.update();
+    }))
+    .transition().duration(500).call(chart);
+    chart.xAxis.axisLabel("Date (m/y)").tickFormat(function(d) {
+        return d3.time.format("%m/%y")(new Date(d))
+    });
+    chart.yAxis
+    .axisLabel("Y-axis Label")
+    .tickFormat(d3.format("d"));
+
+    nv.utils.windowResize(
+        function() {
+            chart.update();
+        }
+        );
+
+}
+function insertData3(callback) {
+    var tempScoreSeries = [];
+    var tempNoScoreSeries = [];
+    getData3(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 0, callback);
+    var tempNoScore = {
+        key: "Hobbit",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "Hobbit",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    tempScoreSeries = [];
+    tempNoScoreSeries = [];
+    getData3(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 1, callback);
+    var tempNoScore = {
+        key: "Hunger Games",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "Hunger Games",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    tempScoreSeries = [];
+    tempNoScoreSeries = [];
+    getData3(document.getElementById("subreddit").value, document.getElementById("keyword").value, tempNoScoreSeries, tempScoreSeries, 2, callback);
+    var tempNoScore = {
+        key: "Star Wars",
+        values: tempNoScoreSeries
+    };
+    var tempScore = {
+        key: "Star Wars",
+        values: tempScoreSeries
+    };
+    noScoreSeries.push(tempNoScore);
+    scoreSeries.push(tempScore);
+    if(mode == false){
+        return noScoreSeries;
+    }
+    else{
+        return scoreSeries;
+    }
+}
+function getData3(subreddit, topic, series, series2, number, callback) {
+        $.post("/movies", {num: number})
+        .done(function(data) {
+            processData(data, series, series2);
+            callback();
+        })
+        .fail(function(err) {
+            console.log("It faiiiiillleeeeeddd :(((");
+        });
+}
+// END OF REALLY BAD CODING PRACTICE FOR PRESETS
 function myData(callback) {
     return [];
 }
@@ -188,6 +423,11 @@ $(function() {
 $(function() {
     $( "#datepicker2" ).datepicker();
 });
+function clearGraph(){
+    noScoreSeries = [];
+    scoreSeries = [];
+    d3.selectAll("svg > *").remove();
+}
 function getData(subreddit, topic, startDate, endDate, series, series2, callback) {
     console.log("Requested ", subreddit, topic);
     $.post("/process", {subreddit: subreddit, topic: topic, startDate: startDate, endDate: endDate})

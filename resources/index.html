@@ -32,10 +32,10 @@
             </div>
 
             <div class="col-md-2 form-inline">
-               Start date: &nbsp;&nbsp; <input type="text" id="datepicker" class="form-control">
-           </div>
+             Start date: &nbsp;&nbsp; <input type="text" id="datepicker" class="form-control">
+         </div>
 
-           <div class="col-md-2 form-inline">
+         <div class="col-md-2 form-inline">
             End date: &nbsp;&nbsp; <input type="text" id="datepicker2" class="form-control">
         </div>
         <div class="col-md-1">
@@ -46,6 +46,20 @@
             Current mode: <span id='modeText' class="mode">Hits</span>
         </div>
 
+    </div>
+    <div class="row pagetitle">
+        <div class="col-md-3">
+            <button  type="button" onclick="addMusic()"  class="btn btn-primary">Music</button>
+        </div>
+        <div class="col-md-3">
+            <button  type="button" onclick="addProgramming()"  class="btn btn-primary">Programming</button>
+        </div>
+        <div class="col-md-3">
+            <button  type="button" onclick="addMovies()"  class="btn btn-primary">Movies</button>
+        </div>
+        <div class="col-md-3">
+            <button  type="button" onclick="clearGraph()"  class="btn btn-primary">Clear Graph</button>
+        </div>
     </div>
 </div>
 
@@ -66,7 +80,7 @@
     </div>
 </div>
 <div class="pagetitle">
-    <button  type="button" onclick="whatsTrending()"  class="btn btn-primary">Add to graph</button>
+    <button  type="button" onclick="whatsTrending()"  class="btn btn-primary">Generate Top 10</button>
 </div>
 </body>
 </html>
