@@ -40,3 +40,7 @@ body {
 	font-size: 25px;
 	font-weight: bold;
 }
+.centering{
+	margin-left: auto;
+    margin-right: auto;
+}
