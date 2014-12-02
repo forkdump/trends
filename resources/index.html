@@ -20,22 +20,22 @@
         <div class="container-fluid top-buffer">
             <div class="row pagetitle">
                 <div class="col-md-12">
-                Reddit Trends
-            </div>
+                    Reddit Trends
+                </div>
             </div>
             <div class="row top-buffer">
                 <div class="col-md-2 form-inline">
                   Keyword: &nbsp;&nbsp; <input type="text" id="keyword" class="form-control">
-               </div>
+              </div>
+              <div class="col-md-2 form-inline">
+                Subreddit: &nbsp;&nbsp; <input type="text" id="subreddit" class="form-control">
+            </div>
+
             <div class="col-md-2 form-inline">
-            Subreddit: &nbsp;&nbsp; <input type="text" id="subreddit" class="form-control">
-          </div>
+               Start date: &nbsp;&nbsp; <input type="text" id="datepicker" class="form-control">
+           </div>
 
-        <div class="col-md-2 form-inline">
-             Start date: &nbsp;&nbsp; <input type="text" id="datepicker" class="form-control">
-        </div>
-
-        <div class="col-md-2 form-inline">
+           <div class="col-md-2 form-inline">
             End date: &nbsp;&nbsp; <input type="text" id="datepicker2" class="form-control">
         </div>
         <div class="col-md-1">
@@ -43,7 +43,7 @@
         </div>
         <div class="col-md-3 form-inline">
             <button  type="button" onclick="changeMode()"  class="btn btn-primary">Change mode</button>&nbsp;&nbsp;&nbsp;&nbsp;
-           Current mode: <span id='modeText' class="mode">Hits</span>
+            Current mode: <span id='modeText' class="mode">Hits</span>
         </div>
 
     </div>
@@ -51,7 +51,22 @@
 
 <svg id='chart' style='height:600px'/>
 <div class='bottom-buffer'>
-<table id='description' border='1' ></table>
+    <table id='description' border='1' ></table>
 </div>
+<div>
+    <button  type="button" onclick="whatsTrending()"  class="btn btn-primary">Add to graph</button>
+</div>
+
+<div class="row pagetitle">
+    <div class="col-md-12">
+        JaJaJaJaJaJa
+    </div>
+</div>
+<div class="row keywords">
+    <div class="col-md-12">
+        <span id='keywords'></span>
+    </div>
+</div>
+
 </body>
 </html>

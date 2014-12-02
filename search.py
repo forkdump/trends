@@ -16,6 +16,7 @@ def getSubData(subreddit, keyword, startDate, endDate):
     checker = ""
     page = 1
     r = requests.get("http://www.reddit.com/r/" + subreddit +"/search.json?q=title:'" + keyword + "'+timestamp%3A" + startDate + ".." +  endDate +"&sort=new&restrict_sr=on&limit=100&syntax=cloudsearch", headers = user_agent)
+    print "http://www.reddit.com/r/" + subreddit +"/search.json?q=title:'" + keyword + "'+timestamp%3A" + startDate + ".." +  endDate +"&sort=new&restrict_sr=on&limit=100&syntax=cloudsearch"
     # Loop over the first 100 pages of results
     while(True):
         search_json = r.text

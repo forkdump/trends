@@ -1,6 +1,6 @@
 # 'pip install bottle' before running this!
 from bottle import route, run, get, post, request, static_file, response
-import search, json, os
+import search, json, os, trends
 
 @post('/process')
 def process():
@@ -14,6 +14,12 @@ def process():
     if(os.path.exists('data/' + subreddit + '-' + topic + '.json')):
         return static_file(subreddit + '-' + topic + '.json', root='./data')
     return search.getSubData(subreddit, topic, startDate, endDate)
+
+@post('/trending')
+def process():
+    print "Analysis in progress..."
+    #return static_file('temp.json', root='./data')
+    return trends.getTrends()
 
 @route('/')
 def root():
